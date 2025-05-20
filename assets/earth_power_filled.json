@@ -1,0 +1,5312 @@
+[
+  {
+    "title": "3y3s",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "16",
+    "normal": "個人差A",
+    "hard": "地力S+",
+    "exhard": "2171.95"
+  },
+  {
+    "title": "Beyond Evolution",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "30",
+    "normal": "地力S+",
+    "hard": "地力S+",
+    "exhard": "2497.6"
+  },
+  {
+    "title": "Chrono Diver -PENDULUMs-",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "22",
+    "normal": "地力S",
+    "hard": "地力S+",
+    "exhard": "2078.69"
+  },
+  {
+    "title": "DEATH†ZIGOQ ～怒りの高速爆走野郎～",
+    "difficulty": "SPL",
+    "level": "12",
+    "version": "25",
+    "normal": "地力S+",
+    "hard": "地力S+",
+    "exhard": ""
+  },
+  {
+    "title": "EROICA",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "27",
+    "normal": "個人差S",
+    "hard": "地力S+",
+    "exhard": "2378.68"
+  },
+  {
+    "title": "Feel The Beat",
+    "difficulty": "SPL",
+    "level": "12",
+    "version": "21",
+    "normal": "地力A",
+    "hard": "地力S+",
+    "exhard": "2033.39"
+  },
+  {
+    "title": "Go Ahead!!",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "24",
+    "normal": "地力S",
+    "hard": "地力S+",
+    "exhard": "2217.04"
+  },
+  {
+    "title": "Go Beyond!!",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "16",
+    "normal": "地力D",
+    "hard": "地力S+",
+    "exhard": "2284.98"
+  },
+  {
+    "title": "GuNGNiR",
+    "difficulty": "SPL",
+    "level": "12",
+    "version": "24",
+    "normal": "地力S+",
+    "hard": "地力S+",
+    "exhard": "2375.74"
+  },
+  {
+    "title": "ICARUS",
+    "difficulty": "SPL",
+    "level": "12",
+    "version": "15",
+    "normal": "地力S",
+    "hard": "地力S+",
+    "exhard": "2813.67"
+  },
+  {
+    "title": "Illegal Function Call",
+    "difficulty": "SPL",
+    "level": "12",
+    "version": "20",
+    "normal": "地力S+",
+    "hard": "地力S+",
+    "exhard": "2400.35"
+  },
+  {
+    "title": "KAISER PHOENIX",
+    "difficulty": "SPL",
+    "level": "12",
+    "version": "21",
+    "normal": "地力S",
+    "hard": "地力S+",
+    "exhard": "2084.55"
+  },
+  {
+    "title": "KAMAITACHI",
+    "difficulty": "SPL",
+    "level": "12",
+    "version": "14",
+    "normal": "地力S+",
+    "hard": "地力S+",
+    "exhard": "2212.39"
+  },
+  {
+    "title": "Mare Nectaris",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "24",
+    "normal": "地力S+",
+    "hard": "地力S+",
+    "exhard": "2544.09"
+  },
+  {
+    "title": "n/a",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "29",
+    "normal": "地力S+",
+    "hard": "地力S+",
+    "exhard": "2338.05"
+  },
+  {
+    "title": "Sigmund",
+    "difficulty": "SPL",
+    "level": "12",
+    "version": "21",
+    "normal": "地力S+",
+    "hard": "地力S+",
+    "exhard": "2263.85"
+  },
+  {
+    "title": "Sinus Iridum",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "28",
+    "normal": "地力S",
+    "hard": "地力S+",
+    "exhard": "2441"
+  },
+  {
+    "title": "Somnidiscotheque",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "30",
+    "normal": "地力S+",
+    "hard": "地力S+",
+    "exhard": "2437.87"
+  },
+  {
+    "title": "The Limbo",
+    "difficulty": "SPL",
+    "level": "12",
+    "version": "19",
+    "normal": "地力S+",
+    "hard": "地力S+",
+    "exhard": "2308.43"
+  },
+  {
+    "title": "Verflucht",
+    "difficulty": "SPL",
+    "level": "12",
+    "version": "21",
+    "normal": "地力S+",
+    "hard": "地力S+",
+    "exhard": "2194.36"
+  },
+  {
+    "title": "X-DEN",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "26",
+    "normal": "地力S",
+    "hard": "地力S+",
+    "exhard": "2555.89"
+  },
+  {
+    "title": "ディスコルディア",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "28",
+    "normal": "個人差S",
+    "hard": "地力S+",
+    "exhard": "2329.03"
+  },
+  {
+    "title": "冥",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "12",
+    "normal": "地力A",
+    "hard": "地力S+",
+    "exhard": "2423.45"
+  },
+  {
+    "title": "卑弥呼",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "16",
+    "normal": "地力S+",
+    "hard": "地力S+",
+    "exhard": "2369.42"
+  },
+  {
+    "title": "惑星鉄道",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "31",
+    "normal": "地力S+",
+    "hard": "地力S+",
+    "exhard": "2425.41"
+  },
+  {
+    "title": "疾風迅雷",
+    "difficulty": "SPL",
+    "level": "12",
+    "version": "21",
+    "normal": "地力S+",
+    "hard": "地力S+",
+    "exhard": "2374.9"
+  },
+  {
+    "title": "DIAVOLO",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "19",
+    "normal": "個人差S+",
+    "hard": "個人差S+",
+    "exhard": "2273.5"
+  },
+  {
+    "title": "Level 5",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "31",
+    "normal": "個人差S",
+    "hard": "個人差S+",
+    "exhard": "2361.24"
+  },
+  {
+    "title": "Plan 8",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "20",
+    "normal": "個人差S+",
+    "hard": "個人差S+",
+    "exhard": "2279.07"
+  },
+  {
+    "title": "RAGE feat.H14 of LEONAIR",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "29",
+    "normal": "個人差S+",
+    "hard": "個人差S+",
+    "exhard": "2425.45"
+  },
+  {
+    "title": "SAMURAI-Scramble",
+    "difficulty": "SPL",
+    "level": "12",
+    "version": "24",
+    "normal": "個人差S+",
+    "hard": "個人差S+",
+    "exhard": "2577.04"
+  },
+  {
+    "title": "Thor's Hammer",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "20",
+    "normal": "個人差A+",
+    "hard": "個人差S+",
+    "exhard": "2265.35"
+  },
+  {
+    "title": "Timepiece phase II (CN Ver.)",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "20",
+    "normal": "個人差S",
+    "hard": "個人差S+",
+    "exhard": "2128.26"
+  },
+  {
+    "title": "灼熱 Pt.2 Long Train Running",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "23",
+    "normal": "個人差S+",
+    "hard": "個人差S+",
+    "exhard": "2385.91"
+  },
+  {
+    "title": "灼熱Beach Side Bunny",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "18",
+    "normal": "個人差S+",
+    "hard": "個人差S+",
+    "exhard": "2370.04"
+  },
+  {
+    "title": "Almagest",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "17",
+    "normal": "地力A+",
+    "hard": "地力S",
+    "exhard": "2031.63"
+  },
+  {
+    "title": "Ambivalent Vermilia",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "31",
+    "normal": "地力A+",
+    "hard": "地力S",
+    "exhard": "2077.88"
+  },
+  {
+    "title": "Bad Encryption",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "30",
+    "normal": "地力A+",
+    "hard": "地力S",
+    "exhard": "2080.72"
+  },
+  {
+    "title": "Binary Black Hole",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "29",
+    "normal": "地力S",
+    "hard": "地力S",
+    "exhard": "2042.99"
+  },
+  {
+    "title": "BroGamer",
+    "difficulty": "SPL",
+    "level": "12",
+    "version": "24",
+    "normal": "個人差S",
+    "hard": "地力S",
+    "exhard": "2105.81"
+  },
+  {
+    "title": "Carmina",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "26",
+    "normal": "地力S",
+    "hard": "地力S",
+    "exhard": "2155.23"
+  },
+  {
+    "title": "Confiserie",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "20",
+    "normal": "地力S",
+    "hard": "地力S",
+    "exhard": "2010.04"
+  },
+  {
+    "title": "Dances with Snow Fairies",
+    "difficulty": "SPL",
+    "level": "12",
+    "version": "18",
+    "normal": "地力S",
+    "hard": "地力S",
+    "exhard": "2210.24"
+  },
+  {
+    "title": "Dans la nuit de l'eternite",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "27",
+    "normal": "地力A+",
+    "hard": "地力S",
+    "exhard": "2318.34"
+  },
+  {
+    "title": "EBONY & IVORY",
+    "difficulty": "SPL",
+    "level": "12",
+    "version": "22",
+    "normal": "地力A+",
+    "hard": "地力S",
+    "exhard": "2116.03"
+  },
+  {
+    "title": "Elemental Creation",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "20",
+    "normal": "地力S",
+    "hard": "地力S",
+    "exhard": "2150.43"
+  },
+  {
+    "title": "EMERALDAS",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "25",
+    "normal": "地力S",
+    "hard": "地力S",
+    "exhard": "2134.42"
+  },
+  {
+    "title": "Everlasting Message",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "27",
+    "normal": "地力S",
+    "hard": "地力S",
+    "exhard": "2085.99"
+  },
+  {
+    "title": "GO OVER WITH GLARE -ROOTAGE 26-",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "26",
+    "normal": "地力S",
+    "hard": "地力S",
+    "exhard": "2124.32"
+  },
+  {
+    "title": "hard-wired",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "29",
+    "normal": "地力S",
+    "hard": "地力S",
+    "exhard": "2213.5"
+  },
+  {
+    "title": "Ignis†Irae",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "28",
+    "normal": "地力A+",
+    "hard": "地力S",
+    "exhard": "2131.65"
+  },
+  {
+    "title": "IX",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "21",
+    "normal": "地力S",
+    "hard": "地力S",
+    "exhard": "2056.52"
+  },
+  {
+    "title": "Lost Souls",
+    "difficulty": "SPL",
+    "level": "12",
+    "version": "27",
+    "normal": "地力S",
+    "hard": "地力S",
+    "exhard": "2075.91"
+  },
+  {
+    "title": "MEGAERA",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "28",
+    "normal": "地力S",
+    "hard": "地力S",
+    "exhard": "2081.61"
+  },
+  {
+    "title": "Override",
+    "difficulty": "SPL",
+    "level": "12",
+    "version": "27",
+    "normal": "地力S",
+    "hard": "地力S",
+    "exhard": "1998.43"
+  },
+  {
+    "title": "perditus†paradisus",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "18",
+    "normal": "地力S",
+    "hard": "地力S",
+    "exhard": "2102.93"
+  },
+  {
+    "title": "Phoenix",
+    "difficulty": "SPL",
+    "level": "12",
+    "version": "19",
+    "normal": "地力S",
+    "hard": "地力S",
+    "exhard": "2098.95"
+  },
+  {
+    "title": "Saturn",
+    "difficulty": "SPL",
+    "level": "12",
+    "version": "20",
+    "normal": "地力A+",
+    "hard": "地力S",
+    "exhard": "2093.23"
+  },
+  {
+    "title": "Sigmund",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "21",
+    "normal": "地力S",
+    "hard": "地力S",
+    "exhard": "2063.55"
+  },
+  {
+    "title": "STEEL NEEDLE",
+    "difficulty": "SPL",
+    "level": "12",
+    "version": "15",
+    "normal": "個人差A",
+    "hard": "地力S",
+    "exhard": "2057.36"
+  },
+  {
+    "title": "TRANOID",
+    "difficulty": "SPL",
+    "level": "12",
+    "version": "14",
+    "normal": "地力S",
+    "hard": "地力S",
+    "exhard": "2106.71"
+  },
+  {
+    "title": "VANESSA",
+    "difficulty": "SPL",
+    "level": "12",
+    "version": "14",
+    "normal": "地力A+",
+    "hard": "地力S",
+    "exhard": "2128.63"
+  },
+  {
+    "title": "Xerulean",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "30",
+    "normal": "地力S",
+    "hard": "地力S",
+    "exhard": "2207.56"
+  },
+  {
+    "title": "お米の美味しい炊き方、そしてお米を食べることによるその効果。",
+    "difficulty": "SPL",
+    "level": "12",
+    "version": "20",
+    "normal": "地力S",
+    "hard": "地力S",
+    "exhard": "2061.89"
+  },
+  {
+    "title": "カジノファイヤーことみちゃん",
+    "difficulty": "SPL",
+    "level": "12",
+    "version": "20",
+    "normal": "個人差A",
+    "hard": "地力S",
+    "exhard": ""
+  },
+  {
+    "title": "共鳴遊戯の華",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "22",
+    "normal": "地力S",
+    "hard": "地力S",
+    "exhard": "1997.64"
+  },
+  {
+    "title": "嘆きの樹",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "13",
+    "normal": "地力S",
+    "hard": "地力S",
+    "exhard": "2023.89"
+  },
+  {
+    "title": "栄冠のカンパネラ",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "30",
+    "normal": "地力S",
+    "hard": "地力S",
+    "exhard": "2128.37"
+  },
+  {
+    "title": "焔極OVERKILL",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "24",
+    "normal": "地力S",
+    "hard": "地力S",
+    "exhard": "2129.19"
+  },
+  {
+    "title": "煉獄のエルフェリア",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "21",
+    "normal": "地力A+",
+    "hard": "地力S",
+    "exhard": "2006.32"
+  },
+  {
+    "title": "表裏一体！？怪盗いいんちょの悩み",
+    "difficulty": "SPL",
+    "level": "12",
+    "version": "22",
+    "normal": "地力S",
+    "hard": "地力S",
+    "exhard": "2117.51"
+  },
+  {
+    "title": "駅猫のワルツ",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "23",
+    "normal": "地力S",
+    "hard": "地力S",
+    "exhard": "2216.89"
+  },
+  {
+    "title": "BLACK.by X-Cross Fade",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "19",
+    "normal": "個人差A+",
+    "hard": "個人差S",
+    "exhard": "2048.36"
+  },
+  {
+    "title": "Fascination MAXX",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "14",
+    "normal": "個人差D",
+    "hard": "個人差S",
+    "exhard": "2291.53"
+  },
+  {
+    "title": "Level 3",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "28",
+    "normal": "個人差A+",
+    "hard": "個人差S",
+    "exhard": "2101.17"
+  },
+  {
+    "title": "Level 4",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "30",
+    "normal": "個人差A+",
+    "hard": "個人差S",
+    "exhard": "2234.92"
+  },
+  {
+    "title": "Level One",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "26",
+    "normal": "個人差A",
+    "hard": "個人差S",
+    "exhard": "2198.52"
+  },
+  {
+    "title": "Lords Of The Roundtable",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "27",
+    "normal": "個人差S",
+    "hard": "個人差S",
+    "exhard": "2170.99"
+  },
+  {
+    "title": "Miracle 5ympho X",
+    "difficulty": "SPL",
+    "level": "12",
+    "version": "21",
+    "normal": "個人差A",
+    "hard": "個人差S",
+    "exhard": "2291.06"
+  },
+  {
+    "title": "NZM",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "23",
+    "normal": "地力A+",
+    "hard": "個人差S",
+    "exhard": "1985.09"
+  },
+  {
+    "title": "Red. by Jack Trance",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "26",
+    "normal": "個人差A+",
+    "hard": "個人差S",
+    "exhard": "2198.86"
+  },
+  {
+    "title": "REVOLVER",
+    "difficulty": "SPL",
+    "level": "12",
+    "version": "25",
+    "normal": "地力A+",
+    "hard": "個人差S",
+    "exhard": "2047.36"
+  },
+  {
+    "title": "SOLAR ECLIPSE",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "31",
+    "normal": "地力A+",
+    "hard": "個人差S",
+    "exhard": "2187.03"
+  },
+  {
+    "title": "The Chase",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "25",
+    "normal": "個人差A+",
+    "hard": "個人差S",
+    "exhard": "2163.78"
+  },
+  {
+    "title": "THE PEERLESS UNDER HEAVEN",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "28",
+    "normal": "個人差A+",
+    "hard": "個人差S",
+    "exhard": "2222.73"
+  },
+  {
+    "title": "Time to Air",
+    "difficulty": "SPL",
+    "level": "12",
+    "version": "15",
+    "normal": "個人差S",
+    "hard": "個人差S",
+    "exhard": "2226.79"
+  },
+  {
+    "title": "TITANS RETURN",
+    "difficulty": "SPL",
+    "level": "12",
+    "version": "19",
+    "normal": "個人差A+",
+    "hard": "個人差S",
+    "exhard": "2148.43"
+  },
+  {
+    "title": "VOID",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "30",
+    "normal": "地力A+",
+    "hard": "個人差S",
+    "exhard": "2197.12"
+  },
+  {
+    "title": "WHA",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "29",
+    "normal": "個人差S",
+    "hard": "個人差S",
+    "exhard": "2276.93"
+  },
+  {
+    "title": "Y&Co. is dead or alive",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "16",
+    "normal": "個人差B",
+    "hard": "個人差S",
+    "exhard": "2303.18"
+  },
+  {
+    "title": "ピアノ独奏無言歌 \"灰燼\"",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "29",
+    "normal": "個人差A+",
+    "hard": "個人差S",
+    "exhard": "2207.47"
+  },
+  {
+    "title": "-65℃",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "28",
+    "normal": "地力A+",
+    "hard": "地力A+",
+    "exhard": "1985.64"
+  },
+  {
+    "title": "[ ]DENTITY",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "30",
+    "normal": "地力A+",
+    "hard": "地力A+",
+    "exhard": "2018.79"
+  },
+  {
+    "title": "Ancient Scapes",
+    "difficulty": "SPL",
+    "level": "12",
+    "version": "21",
+    "normal": "地力A+",
+    "hard": "地力A+",
+    "exhard": "1966.82"
+  },
+  {
+    "title": "Anisakis -somatic mutation type\"Forza\"-",
+    "difficulty": "SPL",
+    "level": "12",
+    "version": "15",
+    "normal": "地力A+",
+    "hard": "地力A+",
+    "exhard": "1977.67"
+  },
+  {
+    "title": "B4U(BEMANI FOR YOU MIX)",
+    "difficulty": "SPL",
+    "level": "12",
+    "version": "16",
+    "normal": "地力A+",
+    "hard": "地力A+",
+    "exhard": "1972.05"
+  },
+  {
+    "title": "Blue Spring Express",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "23",
+    "normal": "地力A+",
+    "hard": "地力A+",
+    "exhard": "2018.19"
+  },
+  {
+    "title": "CADENZA",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "31",
+    "normal": "地力A+",
+    "hard": "地力A+",
+    "exhard": "1970.91"
+  },
+  {
+    "title": "CHRONO DIVER -NORNIR-",
+    "difficulty": "SPL",
+    "level": "12",
+    "version": "22",
+    "normal": "地力A+",
+    "hard": "地力A+",
+    "exhard": "1985.68"
+  },
+  {
+    "title": "CONTRACT",
+    "difficulty": "SPL",
+    "level": "12",
+    "version": "13",
+    "normal": "地力A+",
+    "hard": "地力A+",
+    "exhard": "1971.07"
+  },
+  {
+    "title": "DEATH†ZIGOQ ～怒りの高速爆走野郎～",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "25",
+    "normal": "地力A",
+    "hard": "地力A+",
+    "exhard": "2021.14"
+  },
+  {
+    "title": "Elektrick U-Phoria",
+    "difficulty": "SPL",
+    "level": "12",
+    "version": "21",
+    "normal": "地力A",
+    "hard": "地力A+",
+    "exhard": "1960.19"
+  },
+  {
+    "title": "four pieces of heaven",
+    "difficulty": "SPL",
+    "level": "12",
+    "version": "15",
+    "normal": "地力A",
+    "hard": "地力A+",
+    "exhard": "1991.55"
+  },
+  {
+    "title": "Ganymede",
+    "difficulty": "SPL",
+    "level": "12",
+    "version": "13",
+    "normal": "地力A",
+    "hard": "地力A+",
+    "exhard": "1959.25"
+  },
+  {
+    "title": "GuNGNiR",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "24",
+    "normal": "地力A",
+    "hard": "地力A+",
+    "exhard": "2031.77"
+  },
+  {
+    "title": "Initiation",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "25",
+    "normal": "地力A+",
+    "hard": "地力A+",
+    "exhard": "2029.18"
+  },
+  {
+    "title": "invoker",
+    "difficulty": "SPL",
+    "level": "12",
+    "version": "21",
+    "normal": "個人差A+",
+    "hard": "地力A+",
+    "exhard": "2007.34"
+  },
+  {
+    "title": "KAISER PHOENIX",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "21",
+    "normal": "地力A",
+    "hard": "地力A+",
+    "exhard": "1966.41"
+  },
+  {
+    "title": "LIGHTNING STRIKES",
+    "difficulty": "SPL",
+    "level": "12",
+    "version": "27",
+    "normal": "地力A+",
+    "hard": "地力A+",
+    "exhard": ""
+  },
+  {
+    "title": "LOCUS OF THE TRAVEL",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "28",
+    "normal": "地力A",
+    "hard": "地力A+",
+    "exhard": "2123.37"
+  },
+  {
+    "title": "LOUDER ROLLING THUNDER",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "30",
+    "normal": "地力A+",
+    "hard": "地力A+",
+    "exhard": "2068.34"
+  },
+  {
+    "title": "PARADISE LOST",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "18",
+    "normal": "地力A+",
+    "hard": "地力A+",
+    "exhard": "1981.89"
+  },
+  {
+    "title": "Quakes",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "24",
+    "normal": "地力A+",
+    "hard": "地力A+",
+    "exhard": "1952.76"
+  },
+  {
+    "title": "Secrets",
+    "difficulty": "SPL",
+    "level": "12",
+    "version": "16",
+    "normal": "地力A",
+    "hard": "地力A+",
+    "exhard": "1969.74"
+  },
+  {
+    "title": "Smashing Wedge",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "27",
+    "normal": "地力A+",
+    "hard": "地力A+",
+    "exhard": "2017.92"
+  },
+  {
+    "title": "SOLID WYVERN",
+    "difficulty": "SPL",
+    "level": "12",
+    "version": "29",
+    "normal": "地力A+",
+    "hard": "地力A+",
+    "exhard": "1928.86"
+  },
+  {
+    "title": "TECHNOPHOBIA",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "30",
+    "normal": "個人差A",
+    "hard": "地力A+",
+    "exhard": "2051.52"
+  },
+  {
+    "title": "The Clown of 24stairs",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "30",
+    "normal": "地力A+",
+    "hard": "地力A+",
+    "exhard": "2018.84"
+  },
+  {
+    "title": "THE F∀UST",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "27",
+    "normal": "地力A+",
+    "hard": "地力A+",
+    "exhard": "1956.36"
+  },
+  {
+    "title": "Unbelief",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "26",
+    "normal": "地力B+",
+    "hard": "地力A+",
+    "exhard": "1965.12"
+  },
+  {
+    "title": "Verflucht",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "21",
+    "normal": "地力A",
+    "hard": "地力A+",
+    "exhard": "1895.91"
+  },
+  {
+    "title": "Violet Pulse",
+    "difficulty": "SPL",
+    "level": "12",
+    "version": "23",
+    "normal": "地力A",
+    "hard": "地力A+",
+    "exhard": "1971.19"
+  },
+  {
+    "title": "voltississimo",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "26",
+    "normal": "地力A+",
+    "hard": "地力A+",
+    "exhard": "2022.87"
+  },
+  {
+    "title": "Vulnerability",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "31",
+    "normal": "地力A+",
+    "hard": "地力A+",
+    "exhard": "2069.23"
+  },
+  {
+    "title": "Zirkfied",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "20",
+    "normal": "個人差A+",
+    "hard": "地力A+",
+    "exhard": "2030.3"
+  },
+  {
+    "title": "∀",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "28",
+    "normal": "地力A+",
+    "hard": "地力A+",
+    "exhard": "1947.43"
+  },
+  {
+    "title": "お菓子の王国",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "26",
+    "normal": "地力A",
+    "hard": "地力A+",
+    "exhard": "1988.65"
+  },
+  {
+    "title": "がっつり陰キャ!? 怪盗いいんちょの億劫^^;",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "27",
+    "normal": "地力A+",
+    "hard": "地力A+",
+    "exhard": "1970.91"
+  },
+  {
+    "title": "シムルグの目醒め",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "25",
+    "normal": "地力A+",
+    "hard": "地力A+",
+    "exhard": "2025.59"
+  },
+  {
+    "title": "二人ノ廃城幽踊宴",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "28",
+    "normal": "地力A",
+    "hard": "地力A+",
+    "exhard": "2030.22"
+  },
+  {
+    "title": "千年ノ理",
+    "difficulty": "SPL",
+    "level": "12",
+    "version": "22",
+    "normal": "地力S",
+    "hard": "地力A+",
+    "exhard": "1968.91"
+  },
+  {
+    "title": "君のハートにロックオン",
+    "difficulty": "SPL",
+    "level": "12",
+    "version": "19",
+    "normal": "地力A",
+    "hard": "地力A+",
+    "exhard": "2000.12"
+  },
+  {
+    "title": "天空の夜明け",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "19",
+    "normal": "地力A",
+    "hard": "地力A+",
+    "exhard": "1912.34"
+  },
+  {
+    "title": "恋する☆宇宙戦争っ！！",
+    "difficulty": "SPL",
+    "level": "12",
+    "version": "19",
+    "normal": "地力A+",
+    "hard": "地力A+",
+    "exhard": "1987.29"
+  },
+  {
+    "title": "東京神話",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "25",
+    "normal": "地力B+",
+    "hard": "地力A+",
+    "exhard": "2013.63"
+  },
+  {
+    "title": "超青少年ノ為ノ超多幸ナ超古典的超舞曲",
+    "difficulty": "SPL",
+    "level": "12",
+    "version": "22",
+    "normal": "地力A+",
+    "hard": "地力A+",
+    "exhard": "2003.25"
+  },
+  {
+    "title": "金野火織の金色提言",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "26",
+    "normal": "地力A",
+    "hard": "地力A+",
+    "exhard": "2020.15"
+  },
+  {
+    "title": "255",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "25",
+    "normal": "地力A",
+    "hard": "個人差A+",
+    "exhard": "2021.89"
+  },
+  {
+    "title": "Be quiet",
+    "difficulty": "SPL",
+    "level": "12",
+    "version": "11",
+    "normal": "個人差B+",
+    "hard": "個人差A+",
+    "exhard": "2061.97"
+  },
+  {
+    "title": "CODE:0",
+    "difficulty": "SPL",
+    "level": "12",
+    "version": "23",
+    "normal": "地力A+",
+    "hard": "個人差A+",
+    "exhard": "2159.6"
+  },
+  {
+    "title": "Cult Invitation",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "31",
+    "normal": "個人差A",
+    "hard": "個人差A+",
+    "exhard": "2060.68"
+  },
+  {
+    "title": "DIAMOND CROSSING",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "23",
+    "normal": "個人差B+",
+    "hard": "個人差A+",
+    "exhard": "1948.18"
+  },
+  {
+    "title": "Don't believe the hype",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "29",
+    "normal": "個人差A",
+    "hard": "個人差A+",
+    "exhard": "2127.06"
+  },
+  {
+    "title": "Dynamite",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "23",
+    "normal": "地力A",
+    "hard": "個人差A+",
+    "exhard": "2006.79"
+  },
+  {
+    "title": "ECHIDNA",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "24",
+    "normal": "個人差S",
+    "hard": "個人差A+",
+    "exhard": "1996.31"
+  },
+  {
+    "title": "GiGaGaHell",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "29",
+    "normal": "個人差B+",
+    "hard": "個人差A+",
+    "exhard": "2224.24"
+  },
+  {
+    "title": "Glitch N Ride",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "31",
+    "normal": "地力A+",
+    "hard": "個人差A+",
+    "exhard": "2061.15"
+  },
+  {
+    "title": "Purple Perplex",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "29",
+    "normal": "個人差A",
+    "hard": "個人差A+",
+    "exhard": "2056.1"
+  },
+  {
+    "title": "Rave*it!! Rave*it!!",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "21",
+    "normal": "個人差C",
+    "hard": "個人差A+",
+    "exhard": "1962.79"
+  },
+  {
+    "title": "Reflux",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "22",
+    "normal": "個人差A+",
+    "hard": "個人差A+",
+    "exhard": "2064.87"
+  },
+  {
+    "title": "SCREW // owo // SCREW",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "27",
+    "normal": "個人差A+",
+    "hard": "個人差A+",
+    "exhard": "2102.37"
+  },
+  {
+    "title": "Snake Stick",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "19",
+    "normal": "個人差B+",
+    "hard": "個人差A+",
+    "exhard": "2069.82"
+  },
+  {
+    "title": "TOMAHAWK",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "29",
+    "normal": "個人差A+",
+    "hard": "個人差A+",
+    "exhard": "2158.59"
+  },
+  {
+    "title": "VOX UP",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "21",
+    "normal": "個人差B",
+    "hard": "個人差A+",
+    "exhard": "2083.4"
+  },
+  {
+    "title": "バッド・スイーツ、バッド・ドリーム",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "28",
+    "normal": "個人差A",
+    "hard": "個人差A+",
+    "exhard": "2050.91"
+  },
+  {
+    "title": "恋愛＝精度×認識力",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "30",
+    "normal": "地力B",
+    "hard": "個人差A+",
+    "exhard": "2347.61"
+  },
+  {
+    "title": "真 地獄超特急 -HELL or HELL-",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "23",
+    "normal": "個人差A+",
+    "hard": "個人差A+",
+    "exhard": "2118.71"
+  },
+  {
+    "title": "紫陽花 -AZISAI-",
+    "difficulty": "SPL",
+    "level": "12",
+    "version": "23",
+    "normal": "地力A",
+    "hard": "個人差A+",
+    "exhard": "2246.86"
+  },
+  {
+    "title": "音楽",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "20",
+    "normal": "個人差A",
+    "hard": "個人差A+",
+    "exhard": "2093.32"
+  },
+  {
+    "title": "2 Beasts Unchained",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "29",
+    "normal": "個人差A",
+    "hard": "地力A",
+    "exhard": "2012.16"
+  },
+  {
+    "title": "ABSOLUTE EVIL",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "29",
+    "normal": "地力A",
+    "hard": "地力A",
+    "exhard": "1893.33"
+  },
+  {
+    "title": "ALTERNATOR",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "29",
+    "normal": "地力A",
+    "hard": "地力A",
+    "exhard": "1961.92"
+  },
+  {
+    "title": "ANCHOR",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "25",
+    "normal": "地力B+",
+    "hard": "地力A",
+    "exhard": "1874.31"
+  },
+  {
+    "title": "Artist",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "27",
+    "normal": "地力A",
+    "hard": "地力A",
+    "exhard": "1969.09"
+  },
+  {
+    "title": "Bad Maniacs",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "17",
+    "normal": "地力A",
+    "hard": "地力A",
+    "exhard": "1868.26"
+  },
+  {
+    "title": "BEAT PRISONER",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "27",
+    "normal": "地力A",
+    "hard": "地力A",
+    "exhard": "1897.65"
+  },
+  {
+    "title": "BLACK or WHITE?",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "28",
+    "normal": "地力A",
+    "hard": "地力A",
+    "exhard": "1927.99"
+  },
+  {
+    "title": "Blue Rain",
+    "difficulty": "SPL",
+    "level": "12",
+    "version": "15",
+    "normal": "地力A",
+    "hard": "地力A",
+    "exhard": "1861.02"
+  },
+  {
+    "title": "Boomy and The Boost",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "25",
+    "normal": "個人差B+",
+    "hard": "地力A",
+    "exhard": "1940.29"
+  },
+  {
+    "title": "Close the World feat.a☆ru",
+    "difficulty": "SPL",
+    "level": "12",
+    "version": "21",
+    "normal": "地力A",
+    "hard": "地力A",
+    "exhard": "1929.36"
+  },
+  {
+    "title": "COSMIC RAY",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "28",
+    "normal": "地力A",
+    "hard": "地力A",
+    "exhard": "1998.95"
+  },
+  {
+    "title": "Demon March",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "31",
+    "normal": "地力A",
+    "hard": "地力A",
+    "exhard": "1898.91"
+  },
+  {
+    "title": "Despair of ELFERIA",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "22",
+    "normal": "地力A",
+    "hard": "地力A",
+    "exhard": "1916.33"
+  },
+  {
+    "title": "Devil's Gear",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "23",
+    "normal": "地力A",
+    "hard": "地力A",
+    "exhard": "1915.04"
+  },
+  {
+    "title": "DORNWALD ～Junge～",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "24",
+    "normal": "地力A",
+    "hard": "地力A",
+    "exhard": "1929.81"
+  },
+  {
+    "title": "Empire of Fury",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "28",
+    "normal": "地力B+",
+    "hard": "地力A",
+    "exhard": "1977.18"
+  },
+  {
+    "title": "fallen leaves -IIDX edition-",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "22",
+    "normal": "地力B+",
+    "hard": "地力A",
+    "exhard": "1848.72"
+  },
+  {
+    "title": "Flashes",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "22",
+    "normal": "個人差B",
+    "hard": "地力A",
+    "exhard": "1891.88"
+  },
+  {
+    "title": "HAERETICUS",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "19",
+    "normal": "地力A",
+    "hard": "地力A",
+    "exhard": "1898.97"
+  },
+  {
+    "title": "Hollywood Galaxy",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "20",
+    "normal": "個人差B+",
+    "hard": "地力A",
+    "exhard": "1879.91"
+  },
+  {
+    "title": "kors k's How to make OTOGE CORE 「LONG」",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "30",
+    "normal": "地力B+",
+    "hard": "地力A",
+    "exhard": "1964.73"
+  },
+  {
+    "title": "Life Is A Game ft.DD\"ナカタ\"Metal",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "25",
+    "normal": "地力A",
+    "hard": "地力A",
+    "exhard": "1938.47"
+  },
+  {
+    "title": "Macho Monky",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "26",
+    "normal": "地力B+",
+    "hard": "地力A",
+    "exhard": "1967.97"
+  },
+  {
+    "title": "MENDES",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "15",
+    "normal": "地力A",
+    "hard": "地力A",
+    "exhard": "1876.92"
+  },
+  {
+    "title": "NEW GENERATION -もう、お前しか見えない-",
+    "difficulty": "SPL",
+    "level": "12",
+    "version": "15",
+    "normal": "地力B+",
+    "hard": "地力A",
+    "exhard": "1967.56"
+  },
+  {
+    "title": "O/D*20",
+    "difficulty": "SPL",
+    "level": "12",
+    "version": "25",
+    "normal": "地力B+",
+    "hard": "地力A",
+    "exhard": "1899.43"
+  },
+  {
+    "title": "Painful Fate",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "26",
+    "normal": "地力A",
+    "hard": "地力A",
+    "exhard": "1877.88"
+  },
+  {
+    "title": "quell～the seventh slave～",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "17",
+    "normal": "地力A",
+    "hard": "地力A",
+    "exhard": "1924.79"
+  },
+  {
+    "title": "Resonant",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "31",
+    "normal": "地力B+",
+    "hard": "地力A",
+    "exhard": ""
+  },
+  {
+    "title": "reunion",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "18",
+    "normal": "地力B",
+    "hard": "地力A",
+    "exhard": "2122.38"
+  },
+  {
+    "title": "Scripted Connection⇒ A mix",
+    "difficulty": "SPL",
+    "level": "12",
+    "version": "12",
+    "normal": "個人差A",
+    "hard": "地力A",
+    "exhard": "1905.19"
+  },
+  {
+    "title": "SOLID STATE SQUAD",
+    "difficulty": "SPL",
+    "level": "12",
+    "version": "17",
+    "normal": "地力A",
+    "hard": "地力A",
+    "exhard": "1911.43"
+  },
+  {
+    "title": "STULTI",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "20",
+    "normal": "個人差B+",
+    "hard": "地力A",
+    "exhard": "1917.65"
+  },
+  {
+    "title": "suspicions",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "30",
+    "normal": "地力A",
+    "hard": "地力A",
+    "exhard": "1946.99"
+  },
+  {
+    "title": "THE BRAVE MUST DIE",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "27",
+    "normal": "地力A",
+    "hard": "地力A",
+    "exhard": "1911.14"
+  },
+  {
+    "title": "The Rebellion of Sequencer",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "26",
+    "normal": "地力A",
+    "hard": "地力A",
+    "exhard": "1958.49"
+  },
+  {
+    "title": "Tiempo Loco",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "28",
+    "normal": "地力A+",
+    "hard": "地力A",
+    "exhard": "1884.19"
+  },
+  {
+    "title": "Triple Counter",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "23",
+    "normal": "地力A",
+    "hard": "地力A",
+    "exhard": "1913.95"
+  },
+  {
+    "title": "TRIUMPH",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "27",
+    "normal": "地力A",
+    "hard": "地力A",
+    "exhard": "1922.03"
+  },
+  {
+    "title": "VOLAQUAS",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "30",
+    "normal": "地力A",
+    "hard": "地力A",
+    "exhard": "1951.91"
+  },
+  {
+    "title": "waxing and wanding",
+    "difficulty": "SPL",
+    "level": "12",
+    "version": "13",
+    "normal": "地力A",
+    "hard": "地力A",
+    "exhard": "1882.44"
+  },
+  {
+    "title": "Xlo",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "26",
+    "normal": "地力B",
+    "hard": "地力A",
+    "exhard": "2011.99"
+  },
+  {
+    "title": "ZEPHYRANTHES",
+    "difficulty": "SPL",
+    "level": "12",
+    "version": "23",
+    "normal": "地力A",
+    "hard": "地力A",
+    "exhard": "1924.01"
+  },
+  {
+    "title": "キャトられ恋はモ～モク",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "20",
+    "normal": "地力B+",
+    "hard": "地力A",
+    "exhard": "1945.23"
+  },
+  {
+    "title": "ピアノ協奏曲第1番”蠍火” (BlackY Remix)",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "27",
+    "normal": "地力A",
+    "hard": "地力A",
+    "exhard": "1995.85"
+  },
+  {
+    "title": "世界の果てに約束の凱歌を -ReUnion-",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "28",
+    "normal": "地力A",
+    "hard": "地力A",
+    "exhard": "1937.75"
+  },
+  {
+    "title": "今宵、ロマンス横丁。",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "31",
+    "normal": "地力B+",
+    "hard": "地力A",
+    "exhard": "1891.31"
+  },
+  {
+    "title": "伐折羅-vajra-",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "28",
+    "normal": "地力A",
+    "hard": "地力A",
+    "exhard": "1885.65"
+  },
+  {
+    "title": "俺ら東京さ行ぐだ",
+    "difficulty": "SPL",
+    "level": "12",
+    "version": "27",
+    "normal": "地力A",
+    "hard": "地力A",
+    "exhard": "2026.68"
+  },
+  {
+    "title": "津軽雪",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "24",
+    "normal": "地力B+",
+    "hard": "地力A",
+    "exhard": "1871.32"
+  },
+  {
+    "title": "華麗なる大犬円舞曲",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "27",
+    "normal": "地力A",
+    "hard": "地力A",
+    "exhard": "2029.79"
+  },
+  {
+    "title": "閠槞彁の願い",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "28",
+    "normal": "地力A",
+    "hard": "地力A",
+    "exhard": "1948.74"
+  },
+  {
+    "title": "ALBA -黎明-",
+    "difficulty": "SPL",
+    "level": "12",
+    "version": "21",
+    "normal": "地力B+",
+    "hard": "個人差A",
+    "exhard": ""
+  },
+  {
+    "title": "Antigravity",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "25",
+    "normal": "地力B+",
+    "hard": "個人差A",
+    "exhard": "2043.97"
+  },
+  {
+    "title": "BLUE MIRAGE",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "22",
+    "normal": "個人差C",
+    "hard": "個人差A",
+    "exhard": "2006.66"
+  },
+  {
+    "title": "DAY DREAM",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "20",
+    "normal": "地力C",
+    "hard": "個人差A",
+    "exhard": "2037.9"
+  },
+  {
+    "title": "Inferno of Fomalhaut",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "27",
+    "normal": "個人差B+",
+    "hard": "個人差A",
+    "exhard": "2117.93"
+  },
+  {
+    "title": "JOMANDA",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "20",
+    "normal": "地力B+",
+    "hard": "個人差A",
+    "exhard": "2017.06"
+  },
+  {
+    "title": "PARANOiA ～HADES～",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "15",
+    "normal": "個人差B",
+    "hard": "個人差A",
+    "exhard": "2045.74"
+  },
+  {
+    "title": "Peaktime Booster",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "30",
+    "normal": "個人差B+",
+    "hard": "個人差A",
+    "exhard": "2046.81"
+  },
+  {
+    "title": "rage against usual",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "12",
+    "normal": "地力C",
+    "hard": "個人差A",
+    "exhard": "2045.67"
+  },
+  {
+    "title": "Red. by Full Metal Jacket",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "17",
+    "normal": "個人差B",
+    "hard": "個人差A",
+    "exhard": "1946.32"
+  },
+  {
+    "title": "Snakey Kung-fu",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "24",
+    "normal": "地力B+",
+    "hard": "個人差A",
+    "exhard": "1857.92"
+  },
+  {
+    "title": "Watch Out Pt.2",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "18",
+    "normal": "個人差B",
+    "hard": "個人差A",
+    "exhard": "1955.02"
+  },
+  {
+    "title": "ピアノ協奏曲第１番”蠍火”",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "11",
+    "normal": "個人差A",
+    "hard": "個人差A",
+    "exhard": "2101.05"
+  },
+  {
+    "title": "水鏡の異界",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "28",
+    "normal": "個人差B+",
+    "hard": "個人差A",
+    "exhard": "1975.71"
+  },
+  {
+    "title": "海神",
+    "difficulty": "SPL",
+    "level": "12",
+    "version": "21",
+    "normal": "地力B+",
+    "hard": "個人差A",
+    "exhard": ""
+  },
+  {
+    "title": "灼熱Beach Side Bunny (かめりあ's \"Summertime D'n'B\" Remix)",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "31",
+    "normal": "個人差B+",
+    "hard": "個人差A",
+    "exhard": "2076.71"
+  },
+  {
+    "title": "烽火連天の刃",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "29",
+    "normal": "地力A",
+    "hard": "個人差A",
+    "exhard": "1966.92"
+  },
+  {
+    "title": "anthracene",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "30",
+    "normal": "地力C",
+    "hard": "地力B+",
+    "exhard": "1917.85"
+  },
+  {
+    "title": "Arkadia",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "29",
+    "normal": "地力B",
+    "hard": "地力B+",
+    "exhard": "1845.81"
+  },
+  {
+    "title": "ASIAN VIRTUAL REALITIES (MELTING TOGETHER IN DAZZLING DARKNESS)",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "28",
+    "normal": "地力B",
+    "hard": "地力B+",
+    "exhard": "1944.1"
+  },
+  {
+    "title": "BLUE DRAGON(雷龍RemixIIDX)",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "21",
+    "normal": "地力B",
+    "hard": "地力B+",
+    "exhard": "1939.55"
+  },
+  {
+    "title": "Burning Flame",
+    "difficulty": "SPL",
+    "level": "12",
+    "version": "28",
+    "normal": "地力B",
+    "hard": "地力B+",
+    "exhard": "1904.75"
+  },
+  {
+    "title": "DEADHEAT",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "25",
+    "normal": "地力B+",
+    "hard": "地力B+",
+    "exhard": "1891.64"
+  },
+  {
+    "title": "Devilz Staircase",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "20",
+    "normal": "地力B",
+    "hard": "地力B+",
+    "exhard": "1919.8"
+  },
+  {
+    "title": "DropZ-Line-",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "25",
+    "normal": "地力B",
+    "hard": "地力B+",
+    "exhard": "1964.63"
+  },
+  {
+    "title": "DUAL STRIKER",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "28",
+    "normal": "地力B",
+    "hard": "地力B+",
+    "exhard": "1837.83"
+  },
+  {
+    "title": "EXUSIA",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "17",
+    "normal": "地力A",
+    "hard": "地力B+",
+    "exhard": "1847.67"
+  },
+  {
+    "title": "G59",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "17",
+    "normal": "地力A",
+    "hard": "地力B+",
+    "exhard": "1847.56"
+  },
+  {
+    "title": "Godspeed",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "23",
+    "normal": "地力C",
+    "hard": "地力B+",
+    "exhard": "1886.84"
+  },
+  {
+    "title": "Grand Chariot",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "23",
+    "normal": "地力B+",
+    "hard": "地力B+",
+    "exhard": "1885.68"
+  },
+  {
+    "title": "GRAVITON",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "0",
+    "normal": "地力B+",
+    "hard": "地力B+",
+    "exhard": "1854.72"
+  },
+  {
+    "title": "GUILTY",
+    "difficulty": "SPL",
+    "level": "12",
+    "version": "22",
+    "normal": "地力B",
+    "hard": "地力B+",
+    "exhard": "1843.93"
+  },
+  {
+    "title": "HADES",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "24",
+    "normal": "地力A",
+    "hard": "地力B+",
+    "exhard": "1970.8"
+  },
+  {
+    "title": "Illusionary Waterlily",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "25",
+    "normal": "地力B",
+    "hard": "地力B+",
+    "exhard": "1875.54"
+  },
+  {
+    "title": "INSOMNIA",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "21",
+    "normal": "地力B",
+    "hard": "地力B+",
+    "exhard": "1954.73"
+  },
+  {
+    "title": "LASER CRUSTER (IGNITE REMIX)",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "27",
+    "normal": "地力B",
+    "hard": "地力B+",
+    "exhard": "1923.16"
+  },
+  {
+    "title": "MAXIMUM CHEAT GIRL",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "31",
+    "normal": "地力B",
+    "hard": "地力B+",
+    "exhard": "1868.69"
+  },
+  {
+    "title": "Monopole.",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "22",
+    "normal": "地力B",
+    "hard": "地力B+",
+    "exhard": "1953.34"
+  },
+  {
+    "title": "NITROUS CANNON",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "25",
+    "normal": "地力B",
+    "hard": "地力B+",
+    "exhard": "1941.46"
+  },
+  {
+    "title": "ORCA",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "27",
+    "normal": "地力B+",
+    "hard": "地力B+",
+    "exhard": "1888.01"
+  },
+  {
+    "title": "PLASMA SOUL NIGHT feat. Nana Takahashi / 709sec.",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "29",
+    "normal": "地力B+",
+    "hard": "地力B+",
+    "exhard": "1844.35"
+  },
+  {
+    "title": "Session 9 -Chronicles-",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "18",
+    "normal": "地力B",
+    "hard": "地力B+",
+    "exhard": "1917.58"
+  },
+  {
+    "title": "Shooting Fireball",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "22",
+    "normal": "地力B+",
+    "hard": "地力B+",
+    "exhard": "1798.32"
+  },
+  {
+    "title": "Sky High",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "24",
+    "normal": "地力B",
+    "hard": "地力B+",
+    "exhard": "1795.85"
+  },
+  {
+    "title": "Slipstream",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "25",
+    "normal": "地力B",
+    "hard": "地力B+",
+    "exhard": "1903.75"
+  },
+  {
+    "title": "STARLIGHT DANCEHALL",
+    "difficulty": "SPL",
+    "level": "12",
+    "version": "23",
+    "normal": "地力B+",
+    "hard": "地力B+",
+    "exhard": "1877.01"
+  },
+  {
+    "title": "StrayedCatz",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "23",
+    "normal": "地力B+",
+    "hard": "地力B+",
+    "exhard": "1861.51"
+  },
+  {
+    "title": "Timepiece phase II",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "20",
+    "normal": "地力B",
+    "hard": "地力B+",
+    "exhard": "1873.89"
+  },
+  {
+    "title": "TOXIC VIBRATION",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "22",
+    "normal": "地力B+",
+    "hard": "地力B+",
+    "exhard": "1861.68"
+  },
+  {
+    "title": "Trill auf G",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "26",
+    "normal": "地力D",
+    "hard": "地力B+",
+    "exhard": "1901.82"
+  },
+  {
+    "title": "Twelfth Style",
+    "difficulty": "SPL",
+    "level": "12",
+    "version": "12",
+    "normal": "地力B+",
+    "hard": "地力B+",
+    "exhard": "1976.92"
+  },
+  {
+    "title": "Ubertreffen",
+    "difficulty": "SPL",
+    "level": "12",
+    "version": "15",
+    "normal": "地力B",
+    "hard": "地力B+",
+    "exhard": "1855.96"
+  },
+  {
+    "title": "Vermilion Carol",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "31",
+    "normal": "地力B",
+    "hard": "地力B+",
+    "exhard": "1830.77"
+  },
+  {
+    "title": "Visterhv",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "26",
+    "normal": "地力B+",
+    "hard": "地力B+",
+    "exhard": "1805.88"
+  },
+  {
+    "title": "We're so Happy (P*Light Remix) IIDX ver.",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "22",
+    "normal": "地力C",
+    "hard": "地力B+",
+    "exhard": "1844.12"
+  },
+  {
+    "title": "Welcome",
+    "difficulty": "SPL",
+    "level": "12",
+    "version": "23",
+    "normal": "地力B",
+    "hard": "地力B+",
+    "exhard": "1874.68"
+  },
+  {
+    "title": "X",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "23",
+    "normal": "地力B",
+    "hard": "地力B+",
+    "exhard": "1832.67"
+  },
+  {
+    "title": "Xb10r",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "31",
+    "normal": "地力B+",
+    "hard": "地力B+",
+    "exhard": "1849.32"
+  },
+  {
+    "title": "Xperanza",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "25",
+    "normal": "地力B",
+    "hard": "地力B+",
+    "exhard": "1920.29"
+  },
+  {
+    "title": "YAKSHA",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "19",
+    "normal": "地力B+",
+    "hard": "地力B+",
+    "exhard": "1860.96"
+  },
+  {
+    "title": "ΕΛΠΙΣ",
+    "difficulty": "SPL",
+    "level": "12",
+    "version": "20",
+    "normal": "地力B",
+    "hard": "地力B+",
+    "exhard": "1826.87"
+  },
+  {
+    "title": "†渚の小悪魔ラヴリィ～レイディオ†(IIDX EDIT)",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "20",
+    "normal": "地力B+",
+    "hard": "地力B+",
+    "exhard": "1897.78"
+  },
+  {
+    "title": "ぞうしょく！？マイデンティティ",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "30",
+    "normal": "地力B+",
+    "hard": "地力B+",
+    "exhard": "1894.3"
+  },
+  {
+    "title": "仮想空間の旅人たち",
+    "difficulty": "SPL",
+    "level": "12",
+    "version": "20",
+    "normal": "地力A",
+    "hard": "地力B+",
+    "exhard": "1815.69"
+  },
+  {
+    "title": "子供の落書き帳",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "19",
+    "normal": "地力C",
+    "hard": "地力B+",
+    "exhard": "1875.17"
+  },
+  {
+    "title": "少年は空を辿る",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "22",
+    "normal": "地力B",
+    "hard": "地力B+",
+    "exhard": "1862.4"
+  },
+  {
+    "title": "抱きしめてモナムール",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "26",
+    "normal": "地力B+",
+    "hard": "地力B+",
+    "exhard": "1849.82"
+  },
+  {
+    "title": "未完成ノ蒸氣驅動乙女",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "31",
+    "normal": "地力B",
+    "hard": "地力B+",
+    "exhard": "1866.97"
+  },
+  {
+    "title": "轟け！恋のビーンボール！！",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "21",
+    "normal": "地力B",
+    "hard": "地力B+",
+    "exhard": "1896.76"
+  },
+  {
+    "title": "逆月",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "29",
+    "normal": "個人差B",
+    "hard": "地力B+",
+    "exhard": "1853.12"
+  },
+  {
+    "title": "電腦都市",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "31",
+    "normal": "地力B",
+    "hard": "地力B+",
+    "exhard": "1915.06"
+  },
+  {
+    "title": "魅惑のYUMMYスイーツ",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "27",
+    "normal": "地力B",
+    "hard": "地力B+",
+    "exhard": "1921.81"
+  },
+  {
+    "title": "199024club -Re:BounceKiller-",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "23",
+    "normal": "個人差A",
+    "hard": "個人差B+",
+    "exhard": "2030.64"
+  },
+  {
+    "title": "24h Endurance Race",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "30",
+    "normal": "地力B",
+    "hard": "個人差B+",
+    "exhard": "1941.36"
+  },
+  {
+    "title": "AIR RAID FROM THA UNDAGROUND",
+    "difficulty": "SPL",
+    "level": "12",
+    "version": "17",
+    "normal": "個人差A",
+    "hard": "個人差B+",
+    "exhard": "1935.03"
+  },
+  {
+    "title": "Level 2",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "27",
+    "normal": "個人差C",
+    "hard": "個人差B+",
+    "exhard": "1985.75"
+  },
+  {
+    "title": "MAD ATTACK",
+    "difficulty": "SPL",
+    "level": "12",
+    "version": "21",
+    "normal": "個人差C",
+    "hard": "個人差B+",
+    "exhard": ""
+  },
+  {
+    "title": "Marie Antoinette",
+    "difficulty": "SPL",
+    "level": "12",
+    "version": "16",
+    "normal": "個人差B+",
+    "hard": "個人差B+",
+    "exhard": "1984.84"
+  },
+  {
+    "title": "MAX 300",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "7",
+    "normal": "地力B",
+    "hard": "個人差B+",
+    "exhard": "1943.41"
+  },
+  {
+    "title": "Papilio ulysses",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "25",
+    "normal": "個人差B",
+    "hard": "個人差B+",
+    "exhard": "1912.4"
+  },
+  {
+    "title": "ra'am",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "21",
+    "normal": "地力B",
+    "hard": "個人差B+",
+    "exhard": "1965.11"
+  },
+  {
+    "title": "ミラージュ・レジデンス",
+    "difficulty": "SPL",
+    "level": "12",
+    "version": "15",
+    "normal": "個人差B",
+    "hard": "個人差B+",
+    "exhard": "1914.01"
+  },
+  {
+    "title": "廿",
+    "difficulty": "SPL",
+    "level": "12",
+    "version": "21",
+    "normal": "地力B",
+    "hard": "個人差B+",
+    "exhard": "1978.49"
+  },
+  {
+    "title": "雪上断火",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "29",
+    "normal": "個人差B",
+    "hard": "個人差B+",
+    "exhard": "2010.47"
+  },
+  {
+    "title": "#MAGiCVLGiRL_TRVP_B3VTZ",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "24",
+    "normal": "地力B",
+    "hard": "地力B",
+    "exhard": "1804.21"
+  },
+  {
+    "title": "AA -rebuild-",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "25",
+    "normal": "地力B",
+    "hard": "地力B",
+    "exhard": "1773.58"
+  },
+  {
+    "title": "Aftermath",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "29",
+    "normal": "地力C",
+    "hard": "地力B",
+    "exhard": "1870.15"
+  },
+  {
+    "title": "Always We Trust In You",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "30",
+    "normal": "地力C",
+    "hard": "地力B",
+    "exhard": "1841.4"
+  },
+  {
+    "title": "Amazing Mirage",
+    "difficulty": "SPL",
+    "level": "12",
+    "version": "24",
+    "normal": "地力C",
+    "hard": "地力B",
+    "exhard": "1859.38"
+  },
+  {
+    "title": "Angel's Ladder",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "29",
+    "normal": "地力B",
+    "hard": "地力B",
+    "exhard": "1873.39"
+  },
+  {
+    "title": "AO-1",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "23",
+    "normal": "個人差B",
+    "hard": "地力B",
+    "exhard": "1884.58"
+  },
+  {
+    "title": "Arabian Rave Night",
+    "difficulty": "SPL",
+    "level": "12",
+    "version": "16",
+    "normal": "地力C",
+    "hard": "地力B",
+    "exhard": "1866.07"
+  },
+  {
+    "title": "BIGWAVERS",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "30",
+    "normal": "地力B",
+    "hard": "地力B",
+    "exhard": "1845.29"
+  },
+  {
+    "title": "BITTER CHOCOLATE STRIKER",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "16",
+    "normal": "地力B",
+    "hard": "地力B",
+    "exhard": "1807.14"
+  },
+  {
+    "title": "BLAZING_LAZER",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "31",
+    "normal": "地力D",
+    "hard": "地力B",
+    "exhard": "1821.73"
+  },
+  {
+    "title": "Broken Sword",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "22",
+    "normal": "地力B",
+    "hard": "地力B",
+    "exhard": "1751.07"
+  },
+  {
+    "title": "Chaotoxin",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "30",
+    "normal": "地力C",
+    "hard": "地力B",
+    "exhard": "1803.96"
+  },
+  {
+    "title": "cinder",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "22",
+    "normal": "地力B",
+    "hard": "地力B",
+    "exhard": "1836.52"
+  },
+  {
+    "title": "Close the World feat.a☆ru",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "21",
+    "normal": "地力B",
+    "hard": "地力B",
+    "exhard": "1785.73"
+  },
+  {
+    "title": "CODE:1 [revision1.0.1]",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "23",
+    "normal": "地力B",
+    "hard": "地力B",
+    "exhard": "1802.34"
+  },
+  {
+    "title": "Colorful Cookie",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "16",
+    "normal": "地力B",
+    "hard": "地力B",
+    "exhard": "1800.6"
+  },
+  {
+    "title": "Cosmic Cat",
+    "difficulty": "SPL",
+    "level": "12",
+    "version": "22",
+    "normal": "地力C",
+    "hard": "地力B",
+    "exhard": "1834.71"
+  },
+  {
+    "title": "Dahlia",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "31",
+    "normal": "地力D",
+    "hard": "地力B",
+    "exhard": "1813.67"
+  },
+  {
+    "title": "Dances with Snow Fairies",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "18",
+    "normal": "地力B",
+    "hard": "地力B",
+    "exhard": "1875.05"
+  },
+  {
+    "title": "DARK LEGACY",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "21",
+    "normal": "地力C",
+    "hard": "地力B",
+    "exhard": "1812.9"
+  },
+  {
+    "title": "DOMINION",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "17",
+    "normal": "地力C",
+    "hard": "地力B",
+    "exhard": "1869.63"
+  },
+  {
+    "title": "EBONY & IVORY",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "22",
+    "normal": "地力C",
+    "hard": "地力B",
+    "exhard": "1800.15"
+  },
+  {
+    "title": "entelecheia",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "22",
+    "normal": "地力B",
+    "hard": "地力B",
+    "exhard": "1754.9"
+  },
+  {
+    "title": "Flying Castle",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "29",
+    "normal": "地力B",
+    "hard": "地力B",
+    "exhard": "1868.41"
+  },
+  {
+    "title": "GENE",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "26",
+    "normal": "地力B",
+    "hard": "地力B",
+    "exhard": "1767.57"
+  },
+  {
+    "title": "I",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "30",
+    "normal": "地力B",
+    "hard": "地力B",
+    "exhard": "1840.81"
+  },
+  {
+    "title": "innocent revolver",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "28",
+    "normal": "地力C",
+    "hard": "地力B",
+    "exhard": "1849.04"
+  },
+  {
+    "title": "KILL EACH OTHER",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "26",
+    "normal": "地力B",
+    "hard": "地力B",
+    "exhard": "1798.91"
+  },
+  {
+    "title": "Konzert V",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "23",
+    "normal": "地力C",
+    "hard": "地力B",
+    "exhard": "1883.55"
+  },
+  {
+    "title": "Little Little Princess",
+    "difficulty": "SPL",
+    "level": "12",
+    "version": "12",
+    "normal": "地力B",
+    "hard": "地力B",
+    "exhard": "1851.55"
+  },
+  {
+    "title": "LOST TECHNOLOGIE",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "26",
+    "normal": "地力C",
+    "hard": "地力B",
+    "exhard": "1867.72"
+  },
+  {
+    "title": "MAX 360",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "30",
+    "normal": "地力B",
+    "hard": "地力B",
+    "exhard": "1909.52"
+  },
+  {
+    "title": "Million Dollar",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "31",
+    "normal": "地力C",
+    "hard": "地力B",
+    "exhard": "1822.35"
+  },
+  {
+    "title": "NEO GENERATOR SEVEN",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "22",
+    "normal": "地力C",
+    "hard": "地力B",
+    "exhard": "1863.85"
+  },
+  {
+    "title": "neu",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "20",
+    "normal": "地力B",
+    "hard": "地力B",
+    "exhard": "1848.11"
+  },
+  {
+    "title": "One for All",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "29",
+    "normal": "地力B",
+    "hard": "地力B",
+    "exhard": "1927.66"
+  },
+  {
+    "title": "OTENAMI Hurricane",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "24",
+    "normal": "地力B",
+    "hard": "地力B",
+    "exhard": "1904.22"
+  },
+  {
+    "title": "Proof of the existence",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "20",
+    "normal": "地力B",
+    "hard": "地力B",
+    "exhard": "1808.74"
+  },
+  {
+    "title": "Push on Beats!～音ゲの国のeX-ストリーマー～",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "29",
+    "normal": "地力C",
+    "hard": "地力B",
+    "exhard": "1931.83"
+  },
+  {
+    "title": "QUANTUM TELEPORTATION",
+    "difficulty": "SPL",
+    "level": "12",
+    "version": "19",
+    "normal": "地力B",
+    "hard": "地力B",
+    "exhard": "1842.36"
+  },
+  {
+    "title": "quaver♪",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "19",
+    "normal": "地力B",
+    "hard": "地力B",
+    "exhard": "1823.88"
+  },
+  {
+    "title": "refrain",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "23",
+    "normal": "地力B",
+    "hard": "地力B",
+    "exhard": "1781.74"
+  },
+  {
+    "title": "rommmo",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "28",
+    "normal": "地力C",
+    "hard": "地力B",
+    "exhard": "1895.18"
+  },
+  {
+    "title": "ruin of opals",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "26",
+    "normal": "地力B",
+    "hard": "地力B",
+    "exhard": "1921.36"
+  },
+  {
+    "title": "SAY BAY",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "24",
+    "normal": "地力C",
+    "hard": "地力B",
+    "exhard": "1839.79"
+  },
+  {
+    "title": "Super Rush",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "24",
+    "normal": "地力B",
+    "hard": "地力B",
+    "exhard": "1792.21"
+  },
+  {
+    "title": "SYNC-ANTHEM",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "20",
+    "normal": "地力B+",
+    "hard": "地力B",
+    "exhard": "1795.28"
+  },
+  {
+    "title": "T-REX vs Velociraptor (In the Far east euphoria)",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "27",
+    "normal": "地力B",
+    "hard": "地力B",
+    "exhard": "1847.1"
+  },
+  {
+    "title": "THANK YOU FOR PLAYING",
+    "difficulty": "SPL",
+    "level": "12",
+    "version": "16",
+    "normal": "地力C",
+    "hard": "地力B",
+    "exhard": "1894.4"
+  },
+  {
+    "title": "THE DAY OF JUBILATIONS",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "26",
+    "normal": "地力C",
+    "hard": "地力B",
+    "exhard": "1864.11"
+  },
+  {
+    "title": "THE DEEP STRIKER",
+    "difficulty": "SPL",
+    "level": "12",
+    "version": "15",
+    "normal": "地力B",
+    "hard": "地力B",
+    "exhard": "1886.05"
+  },
+  {
+    "title": "The Last Apocalypse",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "31",
+    "normal": "地力B",
+    "hard": "地力B",
+    "exhard": "1820.31"
+  },
+  {
+    "title": "The Limbo",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "19",
+    "normal": "地力B+",
+    "hard": "地力B",
+    "exhard": "1832.25"
+  },
+  {
+    "title": "Triple Cross",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "29",
+    "normal": "地力B",
+    "hard": "地力B",
+    "exhard": "1837.86"
+  },
+  {
+    "title": "Valanga",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "20",
+    "normal": "地力B",
+    "hard": "地力B",
+    "exhard": "1817.37"
+  },
+  {
+    "title": "Vitrum",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "28",
+    "normal": "地力B",
+    "hard": "地力B",
+    "exhard": "1878.8"
+  },
+  {
+    "title": "yellow head joe",
+    "difficulty": "SPL",
+    "level": "12",
+    "version": "19",
+    "normal": "地力C",
+    "hard": "地力B",
+    "exhard": "1841.64"
+  },
+  {
+    "title": "それは花火のような恋",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "22",
+    "normal": "地力C",
+    "hard": "地力B",
+    "exhard": "1780.55"
+  },
+  {
+    "title": "たまゆら",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "20",
+    "normal": "地力B",
+    "hard": "地力B",
+    "exhard": "1806.1"
+  },
+  {
+    "title": "リリーゼと炎龍レーヴァテイン",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "22",
+    "normal": "地力B",
+    "hard": "地力B",
+    "exhard": "1816.54"
+  },
+  {
+    "title": "不沈艦CANDY",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "16",
+    "normal": "地力B",
+    "hard": "地力B",
+    "exhard": "1801.05"
+  },
+  {
+    "title": "儚キ戀ノ幻想譚",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "30",
+    "normal": "地力B",
+    "hard": "地力B",
+    "exhard": "1813.16"
+  },
+  {
+    "title": "深淵に捧ぐレクイエム",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "27",
+    "normal": "地力C",
+    "hard": "地力B",
+    "exhard": "1869.13"
+  },
+  {
+    "title": "疾風迅雷",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "21",
+    "normal": "地力C",
+    "hard": "地力B",
+    "exhard": "1851.25"
+  },
+  {
+    "title": "神謳 -RESONANCE-",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "25",
+    "normal": "地力B",
+    "hard": "地力B",
+    "exhard": "1816.46"
+  },
+  {
+    "title": "聖人の塔",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "19",
+    "normal": "地力D",
+    "hard": "地力B",
+    "exhard": "1907.5"
+  },
+  {
+    "title": "龍と少女とデコヒーレンス",
+    "difficulty": "SPL",
+    "level": "12",
+    "version": "20",
+    "normal": "地力B",
+    "hard": "地力B",
+    "exhard": "1801.23"
+  },
+  {
+    "title": "FANTASTIC THREE",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "22",
+    "normal": "地力C",
+    "hard": "個人差B",
+    "exhard": "1924.76"
+  },
+  {
+    "title": "GAME ON",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "31",
+    "normal": "個人差C",
+    "hard": "個人差B",
+    "exhard": "1934.78"
+  },
+  {
+    "title": "IMPLANTATION",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "22",
+    "normal": "個人差B",
+    "hard": "個人差B",
+    "exhard": "1931.24"
+  },
+  {
+    "title": "Invitation from Mr.C",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "22",
+    "normal": "地力C",
+    "hard": "個人差B",
+    "exhard": "1900.09"
+  },
+  {
+    "title": "New Castle Legions",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "18",
+    "normal": "個人差C",
+    "hard": "個人差B",
+    "exhard": "1947.37"
+  },
+  {
+    "title": "ONIGOROSHI",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "26",
+    "normal": "個人差C",
+    "hard": "個人差B",
+    "exhard": "1938.86"
+  },
+  {
+    "title": "Sense 2007",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "14",
+    "normal": "個人差C",
+    "hard": "個人差B",
+    "exhard": "1876.27"
+  },
+  {
+    "title": "TOGAKUSHI",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "24",
+    "normal": "個人差C",
+    "hard": "個人差B",
+    "exhard": "1828.1"
+  },
+  {
+    "title": "アストライアの双皿",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "20",
+    "normal": "個人差B",
+    "hard": "個人差B",
+    "exhard": "1915.53"
+  },
+  {
+    "title": "ハイテックトキオ",
+    "difficulty": "SPL",
+    "level": "12",
+    "version": "29",
+    "normal": "個人差C",
+    "hard": "個人差B",
+    "exhard": "1870.93"
+  },
+  {
+    "title": "ワルツ第17番 ト短調”大犬のワルツ”",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "17",
+    "normal": "個人差D",
+    "hard": "個人差B",
+    "exhard": "1927.16"
+  },
+  {
+    "title": "摩天楼",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "31",
+    "normal": "個人差B",
+    "hard": "個人差B",
+    "exhard": "1840.43"
+  },
+  {
+    "title": "火影",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "24",
+    "normal": "個人差B+",
+    "hard": "個人差B",
+    "exhard": "2012.35"
+  },
+  {
+    "title": "魔法のかくれんぼ",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "28",
+    "normal": "個人差D",
+    "hard": "個人差B",
+    "exhard": "1959.21"
+  },
+  {
+    "title": "#CMFLG",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "30",
+    "normal": "地力D",
+    "hard": "地力C",
+    "exhard": "1759.62"
+  },
+  {
+    "title": "ACT0",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "31",
+    "normal": "地力D",
+    "hard": "地力C",
+    "exhard": "1807.36"
+  },
+  {
+    "title": "AKASHIC BREAK",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "27",
+    "normal": "地力C",
+    "hard": "地力C",
+    "exhard": "1845.54"
+  },
+  {
+    "title": "Ancient Scapes",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "21",
+    "normal": "地力C",
+    "hard": "地力C",
+    "exhard": "1756.93"
+  },
+  {
+    "title": "Candy Galy",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "14",
+    "normal": "地力B",
+    "hard": "地力C",
+    "exhard": "1762.97"
+  },
+  {
+    "title": "Colors (radio edit)",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "6",
+    "normal": "地力E",
+    "hard": "地力C",
+    "exhard": "1812.84"
+  },
+  {
+    "title": "Dr. Chemical & Killing Machine",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "26",
+    "normal": "地力C",
+    "hard": "地力C",
+    "exhard": "1755.21"
+  },
+  {
+    "title": "Evans",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "17",
+    "normal": "地力C",
+    "hard": "地力C",
+    "exhard": "1815.55"
+  },
+  {
+    "title": "Feel The Beat",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "21",
+    "normal": "地力D",
+    "hard": "地力C",
+    "exhard": "1752.28"
+  },
+  {
+    "title": "Fegrix",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "29",
+    "normal": "地力D",
+    "hard": "地力C",
+    "exhard": "1817.05"
+  },
+  {
+    "title": "fffff",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "19",
+    "normal": "地力D",
+    "hard": "地力C",
+    "exhard": "1864.38"
+  },
+  {
+    "title": "Friction[!]Function",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "27",
+    "normal": "地力C",
+    "hard": "地力C",
+    "exhard": "1813.16"
+  },
+  {
+    "title": "FUZIN RIZIN",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "24",
+    "normal": "地力C",
+    "hard": "地力C",
+    "exhard": "1791.85"
+  },
+  {
+    "title": "GAIA",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "20",
+    "normal": "地力D",
+    "hard": "地力C",
+    "exhard": "1735.59"
+  },
+  {
+    "title": "Ghost Pulse",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "31",
+    "normal": "地力C",
+    "hard": "地力C",
+    "exhard": "1771.27"
+  },
+  {
+    "title": "GOLDEN CROSS",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "17",
+    "normal": "地力C",
+    "hard": "地力C",
+    "exhard": "1726.37"
+  },
+  {
+    "title": "Gravigazer",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "22",
+    "normal": "地力C",
+    "hard": "地力C",
+    "exhard": "1793.92"
+  },
+  {
+    "title": "HARD BRAIN",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "26",
+    "normal": "地力B",
+    "hard": "地力C",
+    "exhard": "1770.85"
+  },
+  {
+    "title": "Idola",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "21",
+    "normal": "地力C",
+    "hard": "地力C",
+    "exhard": "1765.63"
+  },
+  {
+    "title": "JUSTICE/GUILTY feat. Nana Takahashi & 709sec.",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "31",
+    "normal": "地力E",
+    "hard": "地力C",
+    "exhard": "1784.72"
+  },
+  {
+    "title": "Kung-fu Empire",
+    "difficulty": "SPL",
+    "level": "12",
+    "version": "16",
+    "normal": "地力D",
+    "hard": "地力C",
+    "exhard": "1792.45"
+  },
+  {
+    "title": "L.F.O",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "26",
+    "normal": "地力C",
+    "hard": "地力C",
+    "exhard": "1796"
+  },
+  {
+    "title": "Last Dance",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "21",
+    "normal": "地力C",
+    "hard": "地力C",
+    "exhard": "1826.75"
+  },
+  {
+    "title": "Lethal Weapon",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "26",
+    "normal": "地力C",
+    "hard": "地力C",
+    "exhard": "1823.06"
+  },
+  {
+    "title": "LIVE DRIVING!! feat. 花たん",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "29",
+    "normal": "地力C",
+    "hard": "地力C",
+    "exhard": "1817.75"
+  },
+  {
+    "title": "M4K3 1T B0UNC3",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "23",
+    "normal": "地力B",
+    "hard": "地力C",
+    "exhard": "1783.86"
+  },
+  {
+    "title": "Megalara Garuda",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "27",
+    "normal": "地力D",
+    "hard": "地力C",
+    "exhard": "1800.14"
+  },
+  {
+    "title": "Meissa",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "30",
+    "normal": "地力D",
+    "hard": "地力C",
+    "exhard": "1790.73"
+  },
+  {
+    "title": "Nightmare before oversleep",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "23",
+    "normal": "地力C",
+    "hard": "地力C",
+    "exhard": "1759.71"
+  },
+  {
+    "title": "NNRT",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "19",
+    "normal": "地力C",
+    "hard": "地力C",
+    "exhard": "1766.05"
+  },
+  {
+    "title": "ONE AND ONLY",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "30",
+    "normal": "地力D",
+    "hard": "地力C",
+    "exhard": "1781.98"
+  },
+  {
+    "title": "One More Lovely",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "10",
+    "normal": "地力B+",
+    "hard": "地力C",
+    "exhard": "1887.94"
+  },
+  {
+    "title": "Ou Legends",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "30",
+    "normal": "地力C",
+    "hard": "地力C",
+    "exhard": "1818.92"
+  },
+  {
+    "title": "Out of Control",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "31",
+    "normal": "地力D",
+    "hard": "地力C",
+    "exhard": "1861.13"
+  },
+  {
+    "title": "PUNISHER",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "21",
+    "normal": "地力D",
+    "hard": "地力C",
+    "exhard": "1771.67"
+  },
+  {
+    "title": "RINNE",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "30",
+    "normal": "地力C",
+    "hard": "地力C",
+    "exhard": "1826.71"
+  },
+  {
+    "title": "Say YEEEAHH",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "22",
+    "normal": "地力D",
+    "hard": "地力C",
+    "exhard": "1800.7"
+  },
+  {
+    "title": "Silver Bullet",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "29",
+    "normal": "地力D",
+    "hard": "地力C",
+    "exhard": "1811.53"
+  },
+  {
+    "title": "Smalt #28598F",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "29",
+    "normal": "地力B",
+    "hard": "地力C",
+    "exhard": "1836.66"
+  },
+  {
+    "title": "Sol Cosine Job 2",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "20",
+    "normal": "地力C",
+    "hard": "地力C",
+    "exhard": "1842.9"
+  },
+  {
+    "title": "SOLID STATE SQUAD -RISEN RELIC REMIX-",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "28",
+    "normal": "地力C",
+    "hard": "地力C",
+    "exhard": "1832.12"
+  },
+  {
+    "title": "Sounds Of Summer",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "22",
+    "normal": "地力C",
+    "hard": "地力C",
+    "exhard": "1783.99"
+  },
+  {
+    "title": "Super Freak",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "30",
+    "normal": "地力C",
+    "hard": "地力C",
+    "exhard": "1811.65"
+  },
+  {
+    "title": "Sword of Vengeance",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "31",
+    "normal": "地力C",
+    "hard": "地力C",
+    "exhard": "1794.37"
+  },
+  {
+    "title": "TECHNO Style Essentials",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "27",
+    "normal": "地力C",
+    "hard": "地力C",
+    "exhard": "1838.89"
+  },
+  {
+    "title": "thunder HOUSE NATION Remix",
+    "difficulty": "SPL",
+    "level": "12",
+    "version": "16",
+    "normal": "地力C",
+    "hard": "地力C",
+    "exhard": "1756.16"
+  },
+  {
+    "title": "Umbral",
+    "difficulty": "SPL",
+    "level": "12",
+    "version": "24",
+    "normal": "地力D",
+    "hard": "地力C",
+    "exhard": "1798.09"
+  },
+  {
+    "title": "Vinculum stellarum",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "27",
+    "normal": "地力C",
+    "hard": "地力C",
+    "exhard": "1799.29"
+  },
+  {
+    "title": "Viridian",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "28",
+    "normal": "地力C",
+    "hard": "地力C",
+    "exhard": "1800.75"
+  },
+  {
+    "title": "WONDER WALKER",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "19",
+    "normal": "地力C",
+    "hard": "地力C",
+    "exhard": "1739.89"
+  },
+  {
+    "title": "〆",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "24",
+    "normal": "地力D",
+    "hard": "地力C",
+    "exhard": "1784.36"
+  },
+  {
+    "title": "めいさいアイドル☆あいむちゃん♪",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "23",
+    "normal": "地力C",
+    "hard": "地力C",
+    "exhard": "1783.78"
+  },
+  {
+    "title": "イザナミノナゲキ",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "24",
+    "normal": "地力C",
+    "hard": "地力C",
+    "exhard": "1797.83"
+  },
+  {
+    "title": "シュレーディンガーの猫",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "20",
+    "normal": "地力C",
+    "hard": "地力C",
+    "exhard": "1772.24"
+  },
+  {
+    "title": "スーパー戦湯ババンバーン",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "28",
+    "normal": "個人差C",
+    "hard": "地力C",
+    "exhard": "1847.07"
+  },
+  {
+    "title": "トリカゴノ鳳凰",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "20",
+    "normal": "地力C",
+    "hard": "地力C",
+    "exhard": "1789.03"
+  },
+  {
+    "title": "即席！脳直★ミュージックシステム",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "20",
+    "normal": "地力D",
+    "hard": "地力C",
+    "exhard": "1781"
+  },
+  {
+    "title": "夏色DIARY - L.E.D.-G STYLE MIX -",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "22",
+    "normal": "地力C",
+    "hard": "地力C",
+    "exhard": "1815.34"
+  },
+  {
+    "title": "天邪鬼",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "29",
+    "normal": "地力D",
+    "hard": "地力C",
+    "exhard": "1781.35"
+  },
+  {
+    "title": "恋する☆宇宙戦争っ！！",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "19",
+    "normal": "地力D",
+    "hard": "地力C",
+    "exhard": "1758.25"
+  },
+  {
+    "title": "旋律のドグマ～Miserables～",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "21",
+    "normal": "地力C",
+    "hard": "地力C",
+    "exhard": "1769.93"
+  },
+  {
+    "title": "最小三倍完全数",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "26",
+    "normal": "地力D",
+    "hard": "地力C",
+    "exhard": "1905.03"
+  },
+  {
+    "title": "狂イ咲ケ焔ノ華",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "20",
+    "normal": "地力D",
+    "hard": "地力C",
+    "exhard": "1786.03"
+  },
+  {
+    "title": "禊",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "29",
+    "normal": "地力C",
+    "hard": "地力C",
+    "exhard": "1829.15"
+  },
+  {
+    "title": "童話回廊",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "24",
+    "normal": "地力B",
+    "hard": "地力C",
+    "exhard": "1797.18"
+  },
+  {
+    "title": "紫陽花 -AZISAI-",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "23",
+    "normal": "地力D",
+    "hard": "地力C",
+    "exhard": "1755.41"
+  },
+  {
+    "title": "華爛漫 -Flowers-",
+    "difficulty": "SPL",
+    "level": "12",
+    "version": "15",
+    "normal": "地力C",
+    "hard": "地力C",
+    "exhard": "1753.52"
+  },
+  {
+    "title": "表裏一体！？怪盗いいんちょの悩み",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "22",
+    "normal": "地力D",
+    "hard": "地力C",
+    "exhard": "1735.56"
+  },
+  {
+    "title": "電光",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "31",
+    "normal": "地力C",
+    "hard": "地力C",
+    "exhard": "1861.29"
+  },
+  {
+    "title": "龍王の霊廟(Mausoleum Of The Primal Dragon)",
+    "difficulty": "SPL",
+    "level": "12",
+    "version": "26",
+    "normal": "地力C",
+    "hard": "地力C",
+    "exhard": "1790.49"
+  },
+  {
+    "title": "Adularia",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "21",
+    "normal": "個人差C",
+    "hard": "個人差C",
+    "exhard": "1746.06"
+  },
+  {
+    "title": "ATHER",
+    "difficulty": "SPL",
+    "level": "12",
+    "version": "21",
+    "normal": "地力D",
+    "hard": "個人差C",
+    "exhard": "2016.42"
+  },
+  {
+    "title": "B.O.D.Y.",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "30",
+    "normal": "個人差C",
+    "hard": "個人差C",
+    "exhard": "1842.74"
+  },
+  {
+    "title": "Caterpillar",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "24",
+    "normal": "個人差D",
+    "hard": "個人差C",
+    "exhard": "1919.38"
+  },
+  {
+    "title": "dica dica",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "30",
+    "normal": "個人差D",
+    "hard": "個人差C",
+    "exhard": "1847.32"
+  },
+  {
+    "title": "DUE TOMORROW",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "13",
+    "normal": "個人差E",
+    "hard": "個人差C",
+    "exhard": "1975.29"
+  },
+  {
+    "title": "FAKE TIME",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "11",
+    "normal": "個人差B",
+    "hard": "個人差C",
+    "exhard": "2043.31"
+  },
+  {
+    "title": "PLEASE DON'T GO",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "8",
+    "normal": "個人差C",
+    "hard": "個人差C",
+    "exhard": "1954.04"
+  },
+  {
+    "title": "POSSESSION",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "23",
+    "normal": "地力D",
+    "hard": "個人差C",
+    "exhard": "1835.39"
+  },
+  {
+    "title": "Scripted Connection⇒ A mix",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "12",
+    "normal": "地力D",
+    "hard": "個人差C",
+    "exhard": "1878.11"
+  },
+  {
+    "title": "海神",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "21",
+    "normal": "個人差C",
+    "hard": "個人差C",
+    "exhard": "1791.59"
+  },
+  {
+    "title": "神のシナリオ",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "30",
+    "normal": "地力D",
+    "hard": "個人差C",
+    "exhard": "1789.44"
+  },
+  {
+    "title": "AA",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "11",
+    "normal": "地力D",
+    "hard": "地力D",
+    "exhard": "1686.84"
+  },
+  {
+    "title": "ALBIDA",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "18",
+    "normal": "地力D",
+    "hard": "地力D",
+    "exhard": "1747.88"
+  },
+  {
+    "title": "Beat Radiance",
+    "difficulty": "SPL",
+    "level": "12",
+    "version": "22",
+    "normal": "地力D",
+    "hard": "地力D",
+    "exhard": "1747.59"
+  },
+  {
+    "title": "Broken",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "18",
+    "normal": "地力D",
+    "hard": "地力D",
+    "exhard": "1683.38"
+  },
+  {
+    "title": "Carry Me Away",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "26",
+    "normal": "地力E",
+    "hard": "地力D",
+    "exhard": "1731.27"
+  },
+  {
+    "title": "Catch Our Fire!",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "26",
+    "normal": "地力D",
+    "hard": "地力D",
+    "exhard": "1784.2"
+  },
+  {
+    "title": "Concertino in Blue",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "13",
+    "normal": "地力E",
+    "hard": "地力D",
+    "exhard": "1829.72"
+  },
+  {
+    "title": "dAuntl3ss",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "26",
+    "normal": "地力C",
+    "hard": "地力D",
+    "exhard": "1772.77"
+  },
+  {
+    "title": "Double Dribble",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "27",
+    "normal": "地力D",
+    "hard": "地力D",
+    "exhard": "1820.43"
+  },
+  {
+    "title": "Drastic Dramatic",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "26",
+    "normal": "地力D",
+    "hard": "地力D",
+    "exhard": "1736.91"
+  },
+  {
+    "title": "DRUNK MONKY",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "26",
+    "normal": "地力D",
+    "hard": "地力D",
+    "exhard": "1815.06"
+  },
+  {
+    "title": "EVANESCENT",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "26",
+    "normal": "地力D",
+    "hard": "地力D",
+    "exhard": "1814.76"
+  },
+  {
+    "title": "FIRE FIRE",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "14",
+    "normal": "地力D",
+    "hard": "地力D",
+    "exhard": "1734.48"
+  },
+  {
+    "title": "frequent",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "31",
+    "normal": "地力D",
+    "hard": "地力D",
+    "exhard": "1769.75"
+  },
+  {
+    "title": "Highcharge Divolt",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "23",
+    "normal": "地力D",
+    "hard": "地力D",
+    "exhard": "1761.73"
+  },
+  {
+    "title": "KING",
+    "difficulty": "SPL",
+    "level": "12",
+    "version": "30",
+    "normal": "地力E",
+    "hard": "地力D",
+    "exhard": "1738.14"
+  },
+  {
+    "title": "Liberation",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "20",
+    "normal": "地力E",
+    "hard": "地力D",
+    "exhard": "1868.34"
+  },
+  {
+    "title": "Matt Silver",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "27",
+    "normal": "地力D",
+    "hard": "地力D",
+    "exhard": "1781.28"
+  },
+  {
+    "title": "No Border",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "30",
+    "normal": "地力D",
+    "hard": "地力D",
+    "exhard": "1777.04"
+  },
+  {
+    "title": "oratio",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "15",
+    "normal": "地力D",
+    "hard": "地力D",
+    "exhard": "1770.11"
+  },
+  {
+    "title": "Persephone",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "25",
+    "normal": "地力D",
+    "hard": "地力D",
+    "exhard": "1778.9"
+  },
+  {
+    "title": "Please Welcome Mr.C",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "26",
+    "normal": "地力E",
+    "hard": "地力D",
+    "exhard": "1826.3"
+  },
+  {
+    "title": "RAIN",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "24",
+    "normal": "地力C",
+    "hard": "地力D",
+    "exhard": "1751.94"
+  },
+  {
+    "title": "Rampage",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "25",
+    "normal": "地力D",
+    "hard": "地力D",
+    "exhard": "1724.47"
+  },
+  {
+    "title": "Rave Cannon",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "24",
+    "normal": "地力D",
+    "hard": "地力D",
+    "exhard": "1767.11"
+  },
+  {
+    "title": "Rave Patroller",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "27",
+    "normal": "地力C",
+    "hard": "地力D",
+    "exhard": "1780.34"
+  },
+  {
+    "title": "Scripted Connection⇒ H mix",
+    "difficulty": "SPL",
+    "level": "12",
+    "version": "12",
+    "normal": "地力D",
+    "hard": "地力D",
+    "exhard": ""
+  },
+  {
+    "title": "SOLID STATE SQUAD",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "17",
+    "normal": "地力D",
+    "hard": "地力D",
+    "exhard": "1770.43"
+  },
+  {
+    "title": "SpaceLand☆TOYBOX",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "22",
+    "normal": "地力D",
+    "hard": "地力D",
+    "exhard": "1745.33"
+  },
+  {
+    "title": "spiral galaxy",
+    "difficulty": "SPL",
+    "level": "12",
+    "version": "11",
+    "normal": "地力C",
+    "hard": "地力D",
+    "exhard": "1767.87"
+  },
+  {
+    "title": "Stereo Beasts",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "31",
+    "normal": "地力D",
+    "hard": "地力D",
+    "exhard": "1759.86"
+  },
+  {
+    "title": "Summerlights(IIDX Edition)",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "24",
+    "normal": "地力E",
+    "hard": "地力D",
+    "exhard": "1764.08"
+  },
+  {
+    "title": "The Least 100sec",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "22",
+    "normal": "地力D",
+    "hard": "地力D",
+    "exhard": "1816.06"
+  },
+  {
+    "title": "The Sampling Paradise",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "19",
+    "normal": "地力D",
+    "hard": "地力D",
+    "exhard": "1726.88"
+  },
+  {
+    "title": "Thunderbolt",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "19",
+    "normal": "地力D",
+    "hard": "地力D",
+    "exhard": "1738.65"
+  },
+  {
+    "title": "TIEFSEE",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "22",
+    "normal": "地力D",
+    "hard": "地力D",
+    "exhard": "1692.58"
+  },
+  {
+    "title": "Todestrieb",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "19",
+    "normal": "地力E",
+    "hard": "地力D",
+    "exhard": "1688.33"
+  },
+  {
+    "title": "True Blue",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "20",
+    "normal": "地力D",
+    "hard": "地力D",
+    "exhard": "1707.47"
+  },
+  {
+    "title": "V",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "5",
+    "normal": "地力D",
+    "hard": "地力D",
+    "exhard": "1789.66"
+  },
+  {
+    "title": "VANESSA",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "14",
+    "normal": "地力E",
+    "hard": "地力D",
+    "exhard": "1729.48"
+  },
+  {
+    "title": "Ypsilon",
+    "difficulty": "SPL",
+    "level": "12",
+    "version": "27",
+    "normal": "地力C",
+    "hard": "地力D",
+    "exhard": "1786.42"
+  },
+  {
+    "title": "ZZ",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "22",
+    "normal": "個人差C",
+    "hard": "地力D",
+    "exhard": "1716.55"
+  },
+  {
+    "title": "九尾狐夜行",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "24",
+    "normal": "地力D",
+    "hard": "地力D",
+    "exhard": "1805.12"
+  },
+  {
+    "title": "刃図羅",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "24",
+    "normal": "地力D",
+    "hard": "地力D",
+    "exhard": "1737.98"
+  },
+  {
+    "title": "少年A",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "15",
+    "normal": "地力E",
+    "hard": "地力D",
+    "exhard": "1811.56"
+  },
+  {
+    "title": "終焔のClaudia",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "31",
+    "normal": "地力E",
+    "hard": "地力D",
+    "exhard": "1779.65"
+  },
+  {
+    "title": "華蝶風雪",
+    "difficulty": "SPL",
+    "level": "12",
+    "version": "13",
+    "normal": "地力D",
+    "hard": "地力D",
+    "exhard": "1777.69"
+  },
+  {
+    "title": "電人、暁に斃れる。",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "14",
+    "normal": "地力C",
+    "hard": "地力D",
+    "exhard": "1788.14"
+  },
+  {
+    "title": "eRAseRmOToRpHAntOM",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "17",
+    "normal": "個人差D",
+    "hard": "個人差D",
+    "exhard": "1912.8"
+  },
+  {
+    "title": "Fire Beat",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "28",
+    "normal": "個人差D",
+    "hard": "個人差D",
+    "exhard": "1917.7"
+  },
+  {
+    "title": "ICARUS",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "15",
+    "normal": "個人差E",
+    "hard": "個人差D",
+    "exhard": "1997.35"
+  },
+  {
+    "title": "Innocent Walls",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "10",
+    "normal": "個人差E",
+    "hard": "個人差D",
+    "exhard": "1969.74"
+  },
+  {
+    "title": "one or eight",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "9",
+    "normal": "個人差E",
+    "hard": "個人差D",
+    "exhard": "1912.31"
+  },
+  {
+    "title": "TROOPERS",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "15",
+    "normal": "個人差E",
+    "hard": "個人差D",
+    "exhard": "1773.32"
+  },
+  {
+    "title": "桜",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "8",
+    "normal": "個人差D",
+    "hard": "個人差D",
+    "exhard": "1996.87"
+  },
+  {
+    "title": "Apocalypse",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "24",
+    "normal": "地力E",
+    "hard": "地力E",
+    "exhard": "1706.68"
+  },
+  {
+    "title": "Arca",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "25",
+    "normal": "地力E",
+    "hard": "地力E",
+    "exhard": "1754.97"
+  },
+  {
+    "title": "BIGソムタム",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "28",
+    "normal": "地力D",
+    "hard": "地力E",
+    "exhard": "1746.02"
+  },
+  {
+    "title": "encounter",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "25",
+    "normal": "地力E",
+    "hard": "地力E",
+    "exhard": "1726.77"
+  },
+  {
+    "title": "F",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "19",
+    "normal": "地力E",
+    "hard": "地力E",
+    "exhard": "1661.28"
+  },
+  {
+    "title": "glacia",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "30",
+    "normal": "地力E",
+    "hard": "地力E",
+    "exhard": "1706.18"
+  },
+  {
+    "title": "GRID KNIGHT",
+    "difficulty": "SPL",
+    "level": "12",
+    "version": "14",
+    "normal": "個人差E",
+    "hard": "地力E",
+    "exhard": "1791.74"
+  },
+  {
+    "title": "Hat Surprise (Season 2)",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "30",
+    "normal": "地力E",
+    "hard": "地力E",
+    "exhard": "1754.25"
+  },
+  {
+    "title": "invoker",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "21",
+    "normal": "地力E",
+    "hard": "地力E",
+    "exhard": "1725.4"
+  },
+  {
+    "title": "LASER CRUSTER",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "14",
+    "normal": "地力E",
+    "hard": "地力E",
+    "exhard": "1738.23"
+  },
+  {
+    "title": "LIGHTNING STRIKES",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "27",
+    "normal": "地力E",
+    "hard": "地力E",
+    "exhard": "1695.7"
+  },
+  {
+    "title": "Little Star",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "20",
+    "normal": "地力E",
+    "hard": "地力E",
+    "exhard": "1713.52"
+  },
+  {
+    "title": "moon_child",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "9",
+    "normal": "地力E",
+    "hard": "地力E",
+    "exhard": "1760.44"
+  },
+  {
+    "title": "NINJA IS DEAD IIDX ver.",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "23",
+    "normal": "地力E",
+    "hard": "地力E",
+    "exhard": "1769.2"
+  },
+  {
+    "title": "Parvati",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "28",
+    "normal": "地力D",
+    "hard": "地力E",
+    "exhard": "1802.34"
+  },
+  {
+    "title": "Raspberry Railgun",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "25",
+    "normal": "地力E",
+    "hard": "地力E",
+    "exhard": "1687.5"
+  },
+  {
+    "title": "RED ZONE",
+    "difficulty": "SPL",
+    "level": "12",
+    "version": "11",
+    "normal": "地力E",
+    "hard": "地力E",
+    "exhard": "1747.45"
+  },
+  {
+    "title": "Sirius",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "31",
+    "normal": "地力E",
+    "hard": "地力E",
+    "exhard": "1762.9"
+  },
+  {
+    "title": "Steel Edge",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "24",
+    "normal": "個人差E",
+    "hard": "地力E",
+    "exhard": "1706.46"
+  },
+  {
+    "title": "Sweet Clapper",
+    "difficulty": "SPL",
+    "level": "12",
+    "version": "24",
+    "normal": "地力E",
+    "hard": "地力E",
+    "exhard": "1743.74"
+  },
+  {
+    "title": "Symmetry",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "22",
+    "normal": "地力E",
+    "hard": "地力E",
+    "exhard": "1683.52"
+  },
+  {
+    "title": "Venom",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "24",
+    "normal": "地力E",
+    "hard": "地力E",
+    "exhard": "1771.82"
+  },
+  {
+    "title": "ΕΛΠΙΣ",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "20",
+    "normal": "地力E",
+    "hard": "地力E",
+    "exhard": "1655.15"
+  },
+  {
+    "title": "《PL|RAYER》",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "31",
+    "normal": "地力E",
+    "hard": "地力E",
+    "exhard": "1709.57"
+  },
+  {
+    "title": "カゴノトリ～弐式～",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "13",
+    "normal": "地力D",
+    "hard": "地力E",
+    "exhard": "1675"
+  },
+  {
+    "title": "紅牡丹",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "22",
+    "normal": "地力E",
+    "hard": "地力E",
+    "exhard": "1684.41"
+  },
+  {
+    "title": "黒髪乱れし修羅となりて",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "18",
+    "normal": "地力E",
+    "hard": "地力E",
+    "exhard": "1720.66"
+  },
+  {
+    "title": "Innocent Walls",
+    "difficulty": "SPH",
+    "level": "12",
+    "version": "10",
+    "normal": "個人差E",
+    "hard": "個人差E",
+    "exhard": "2029.4"
+  },
+  {
+    "title": "mosaic",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "17",
+    "normal": "個人差D",
+    "hard": "個人差E",
+    "exhard": "1683.53"
+  },
+  {
+    "title": "sakura storm",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "18",
+    "normal": "地力F",
+    "hard": "個人差E",
+    "exhard": "1690.25"
+  },
+  {
+    "title": "SCREAM SQUAD",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "12",
+    "normal": "個人差E",
+    "hard": "個人差E",
+    "exhard": "1836.76"
+  },
+  {
+    "title": "雪月花",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "10",
+    "normal": "個人差E",
+    "hard": "個人差E",
+    "exhard": "1772.26"
+  },
+  {
+    "title": "A",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "7",
+    "normal": "地力F",
+    "hard": "地力F",
+    "exhard": "1723.59"
+  },
+  {
+    "title": "gigadelic",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "11",
+    "normal": "地力E",
+    "hard": "地力F",
+    "exhard": "1715.24"
+  },
+  {
+    "title": "gigadelic",
+    "difficulty": "SPH",
+    "level": "12",
+    "version": "11",
+    "normal": "地力E",
+    "hard": "地力F",
+    "exhard": "1670.39"
+  },
+  {
+    "title": "Primitive Vibes",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "27",
+    "normal": "地力F",
+    "hard": "地力F",
+    "exhard": "1696.93"
+  },
+  {
+    "title": "Ristaccia",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "15",
+    "normal": "地力F",
+    "hard": "地力F",
+    "exhard": "1687.98"
+  },
+  {
+    "title": "snow storm",
+    "difficulty": "SPL",
+    "level": "12",
+    "version": "14",
+    "normal": "地力F",
+    "hard": "地力F",
+    "exhard": "1668.5"
+  },
+  {
+    "title": "SPECIAL SUMMER CAMPAIGN!",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "18",
+    "normal": "地力F",
+    "hard": "地力F",
+    "exhard": "1660.74"
+  },
+  {
+    "title": "千年ノ理",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "22",
+    "normal": "地力E",
+    "hard": "地力F",
+    "exhard": "1616.28"
+  },
+  {
+    "title": "残像ニ繋ガレタ追憶ノHIDEAWAY",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "31",
+    "normal": "地力F",
+    "hard": "地力F",
+    "exhard": "1669.48"
+  },
+  {
+    "title": "1116",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "32",
+    "normal": "",
+    "hard": "",
+    "exhard": ""
+  },
+  {
+    "title": "A MINSTREL ～ ver. short-scape ～",
+    "difficulty": "SPL",
+    "level": "12",
+    "version": "19",
+    "normal": "地力B",
+    "hard": "地力B",
+    "exhard": ""
+  },
+  {
+    "title": "Bow shock!!",
+    "difficulty": "SPL",
+    "level": "12",
+    "version": "27",
+    "normal": "難易度未定",
+    "hard": "難易度未定",
+    "exhard": ""
+  },
+  {
+    "title": "Bring The Fire",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "32",
+    "normal": "地力D",
+    "hard": "地力D",
+    "exhard": ""
+  },
+  {
+    "title": "Caldwell 99",
+    "difficulty": "SPL",
+    "level": "12",
+    "version": "30",
+    "normal": "難易度未定",
+    "hard": "難易度未定",
+    "exhard": ""
+  },
+  {
+    "title": "COSMIC V3LOCITY",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "32",
+    "normal": "地力C",
+    "hard": "地力C",
+    "exhard": ""
+  },
+  {
+    "title": "CUE CUE RESCUE",
+    "difficulty": "SPL",
+    "level": "12",
+    "version": "30",
+    "normal": "地力F",
+    "hard": "地力F",
+    "exhard": ""
+  },
+  {
+    "title": "destination",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "32",
+    "normal": "地力B",
+    "hard": "地力C",
+    "exhard": ""
+  },
+  {
+    "title": "DIVINE JUDGEMENT",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "32",
+    "normal": "地力C",
+    "hard": "地力C",
+    "exhard": ""
+  },
+  {
+    "title": "Drop Syndicate",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "32",
+    "normal": "地力B+",
+    "hard": "地力B+",
+    "exhard": ""
+  },
+  {
+    "title": "EX-MASSIVE FIGHTER",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "32",
+    "normal": "地力C",
+    "hard": "地力C",
+    "exhard": ""
+  },
+  {
+    "title": "FlyAway",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "32",
+    "normal": "",
+    "hard": "",
+    "exhard": ""
+  },
+  {
+    "title": "God Mind",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "32",
+    "normal": "",
+    "hard": "",
+    "exhard": ""
+  },
+  {
+    "title": "Here We Go Now",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "32",
+    "normal": "地力C",
+    "hard": "地力C",
+    "exhard": ""
+  },
+  {
+    "title": "hora de verdad",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "32",
+    "normal": "",
+    "hard": "",
+    "exhard": ""
+  },
+  {
+    "title": "HYENA",
+    "difficulty": "SPL",
+    "level": "12",
+    "version": "21",
+    "normal": "難易度未定",
+    "hard": "難易度未定",
+    "exhard": ""
+  },
+  {
+    "title": "Lightspeed",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "32",
+    "normal": "地力B",
+    "hard": "地力B+",
+    "exhard": ""
+  },
+  {
+    "title": "Mid-Corner (Magic Maker)",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "32",
+    "normal": "地力C",
+    "hard": "地力B",
+    "exhard": ""
+  },
+  {
+    "title": "NOIXIA",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "32",
+    "normal": "地力A",
+    "hard": "地力A+",
+    "exhard": ""
+  },
+  {
+    "title": "Nothing but Theory",
+    "difficulty": "SPL",
+    "level": "12",
+    "version": "25",
+    "normal": "地力D",
+    "hard": "地力D",
+    "exhard": ""
+  },
+  {
+    "title": "Roar of Chronos",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "32",
+    "normal": "地力C",
+    "hard": "地力C",
+    "exhard": ""
+  },
+  {
+    "title": "Satellite Burst",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "32",
+    "normal": "地力A+",
+    "hard": "地力A+",
+    "exhard": ""
+  },
+  {
+    "title": "Seven Times Four",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "31",
+    "normal": "地力C",
+    "hard": "地力C",
+    "exhard": ""
+  },
+  {
+    "title": "SμG@R RU$#",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "32",
+    "normal": "",
+    "hard": "",
+    "exhard": ""
+  },
+  {
+    "title": "The Onlyonez",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "31",
+    "normal": "地力E",
+    "hard": "個人差E",
+    "exhard": ""
+  },
+  {
+    "title": "u gotta beat",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "32",
+    "normal": "地力B",
+    "hard": "地力B",
+    "exhard": ""
+  },
+  {
+    "title": "Without Heaven",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "32",
+    "normal": "",
+    "hard": "",
+    "exhard": ""
+  },
+  {
+    "title": "スパークリング☆彡ハイパーチューン！！",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "32",
+    "normal": "地力F",
+    "hard": "地力F",
+    "exhard": ""
+  },
+  {
+    "title": "フォニイ",
+    "difficulty": "SPL",
+    "level": "12",
+    "version": "31",
+    "normal": "地力E",
+    "hard": "地力D",
+    "exhard": ""
+  },
+  {
+    "title": "天使のカンタータ -Cantata of Angels-",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "32",
+    "normal": "",
+    "hard": "",
+    "exhard": ""
+  },
+  {
+    "title": "新宝島",
+    "difficulty": "SPL",
+    "level": "12",
+    "version": "28",
+    "normal": "難易度未定",
+    "hard": "難易度未定",
+    "exhard": ""
+  },
+  {
+    "title": "灼熱 Lost Summer Dayz",
+    "difficulty": "SPA",
+    "level": "12",
+    "version": "32",
+    "normal": "地力E",
+    "hard": "個人差B+",
+    "exhard": ""
+  },
+  {
+    "title": "烽火連天の刃",
+    "difficulty": "SPL",
+    "level": "12",
+    "version": "29",
+    "normal": "個人差S",
+    "hard": "地力S+",
+    "exhard": ""
+  },
+  {
+    "title": "蛇神",
+    "difficulty": "SPL",
+    "level": "12",
+    "version": "19",
+    "normal": "難易度未定",
+    "hard": "難易度未定",
+    "exhard": ""
+  }
+]
