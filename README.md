@@ -1,16 +1,4 @@
-# sp12table
+# SP12地力表
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- 代码遵循 ​**MIT License**，允许学习、修改和分发，见LICENSE。
+- ​**额外限制**​：禁止将本代码或衍生作品以任何形式盈利、变现（包括但不限于收费下载，接受捐赠，植入广告等）。
