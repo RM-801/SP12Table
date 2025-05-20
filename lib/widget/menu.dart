@@ -60,6 +60,10 @@ class AppMenuDrawer extends StatelessWidget {
                   SelectableText('https://cpi.makecir.com/'),
                   SizedBox(height: 8),
                   Text('感谢以上项目的作者及玩家参与投票提供的数据支持。'),
+                  Text('© 2025 SeaRay all rights reserved.'),
+                  SizedBox(height: 8),
+                  Text('本软件仅供学习交流使用，禁止用于商业用途。'),
+                  Text('如有侵权请联系作者删除。'),
                 ],
               );
             },
@@ -194,8 +198,9 @@ Future<void> importUserCsv(BuildContext context) async {
           agIndex,
           acIndex,
           ahIndex,
-        ].reduce((a, b) => a > b ? a : b))
+        ].reduce((a, b) => a > b ? a : b)) {
       continue;
+    }
     final title = row[titleIndex]?.toString().trim();
 
     // ANOTHER (SPA)

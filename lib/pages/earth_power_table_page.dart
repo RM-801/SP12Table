@@ -268,7 +268,7 @@ class _EarthPowerPageState extends State<EarthPowerPage> {
               String groupKey = 'CPI 未定';
               double? ex;
               try {
-                ex = double.tryParse(song.exhard ?? '');
+                ex = double.tryParse(song.exhard);
               } catch (_) {
                 ex = null;
               }
@@ -685,7 +685,7 @@ class _EarthPowerPageState extends State<EarthPowerPage> {
                     ),
                   ],
                 );
-              }).toList(),
+              }),
             ],
           );
         },
