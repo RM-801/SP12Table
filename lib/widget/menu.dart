@@ -76,7 +76,7 @@ class AppMenuDrawer extends StatelessWidget {
 
 // 定义状态优先级（数值越小越好）
 const lampPriority = {
-  'FULLCOMBO': 0,
+  'FULLCOMBO CLEAR': 0,
   'EX HARD CLEAR': 1,
   'HARD CLEAR': 2,
   'CLEAR': 3,
