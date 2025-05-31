@@ -160,3 +160,8 @@ app.*.symbols
 .python-version
 .gclient_previous_custom_vars
 .gclient_previous_sync_commits
+android/app/keystore
+android/app/debug/app-debug.aab
+android/app/profile/app-profile.aab
+android/app/release/app-release.aab
+android/app/build.gradle.kts

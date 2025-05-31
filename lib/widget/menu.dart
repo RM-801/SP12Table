@@ -49,7 +49,7 @@ class AppMenuDrawer extends StatelessWidget {
               showAboutDialog(
                 context: context,
                 applicationName: 'SP12地力表',
-                applicationVersion: '1.0.0',
+                applicationVersion: '1.0.1',
                 children: const [
                   Text('这是一个SP12地力表管理工具。'),
                   SizedBox(height: 8),
@@ -150,33 +150,22 @@ Future<void> importUserCsv(BuildContext context) async {
   // 获取表头
   final header = rows.first.cast<String>();
   final titleIndex = header.indexWhere((h) => h.contains('タイトル'));
-  final aaIndex = header.indexWhere(
-    (h) => h.contains('ANOTHER') && h.contains('難易度'),
-  );
-  final afIndex = header.indexWhere(
-    (h) => h.contains('ANOTHER') && h.contains('クリアタイプ'),
-  );
-  final abIndex = header.indexWhere(
-    (h) => h.contains('HYPER') && h.contains('難易度'),
-  );
-  final agIndex = header.indexWhere(
-    (h) => h.contains('HYPER') && h.contains('クリアタイプ'),
-  );
-  final acIndex = header.indexWhere(
-    (h) => h.contains('LEGGENDARIA') && h.contains('難易度'),
-  );
-  final ahIndex = header.indexWhere(
-    (h) => h.contains('LEGGENDARIA') && h.contains('クリアタイプ'),
-  );
+  final anotherDifficultyIndex = header.indexWhere((h) => h.contains('ANOTHER 難易度'));
+  final anotherClearTypeIndex = header.indexWhere((h) => h.contains('ANOTHER クリアタイプ'));
+  final hyperDifficultyIndex = header.indexWhere((h) => h.contains('HYPER 難易度'));
+  final hyperClearTypeIndex = header.indexWhere((h) => h.contains('HYPER クリアタイプ'));
+  final legendariaDifficultyIndex = header.indexWhere((h) => h.contains('LEGGENDARIA 難易度'));
+  final legendariaClearTypeIndex = header.indexWhere((h) => h.contains('LEGGENDARIA クリアタイプ'));
 
+  // 验证CSV格式是否正确
   if ([
     titleIndex,
-    aaIndex,
-    afIndex,
-    abIndex,
-    agIndex,
-    acIndex,
-    ahIndex,
+    anotherDifficultyIndex,
+    anotherClearTypeIndex,
+    hyperDifficultyIndex,
+    hyperClearTypeIndex,
+    legendariaDifficultyIndex,
+    legendariaClearTypeIndex,
   ].contains(-1)) {
     ScaffoldMessenger.of(
       context,
@@ -192,20 +181,20 @@ Future<void> importUserCsv(BuildContext context) async {
     if (row.length <=
         [
           titleIndex,
-          aaIndex,
-          afIndex,
-          abIndex,
-          agIndex,
-          acIndex,
-          ahIndex,
+          anotherDifficultyIndex,
+          anotherClearTypeIndex,
+          hyperDifficultyIndex,
+          hyperClearTypeIndex,
+          legendariaDifficultyIndex,
+          legendariaClearTypeIndex,
         ].reduce((a, b) => a > b ? a : b)) {
       continue;
     }
     final title = row[titleIndex]?.toString().trim();
 
     // ANOTHER (SPA)
-    final levelA = row[aaIndex]?.toString();
-    final clearTypeA = row[afIndex]?.toString().trim();
+    final levelA = row[anotherDifficultyIndex]?.toString();
+    final clearTypeA = row[anotherClearTypeIndex]?.toString().trim();
     if (levelA == '12' &&
         title != null &&
         clearTypeA != null &&
@@ -221,8 +210,8 @@ Future<void> importUserCsv(BuildContext context) async {
     }
 
     // HYPER (SPH)
-    final levelH = row[abIndex]?.toString();
-    final clearTypeH = row[agIndex]?.toString().trim();
+    final levelH = row[hyperDifficultyIndex]?.toString();
+    final clearTypeH = row[hyperClearTypeIndex]?.toString().trim();
     if (levelH == '12' &&
         title != null &&
         clearTypeH != null &&
@@ -238,8 +227,8 @@ Future<void> importUserCsv(BuildContext context) async {
     }
 
     // LEGGENDARIA (SPL)
-    final levelL = row[acIndex]?.toString();
-    final clearTypeL = row[ahIndex]?.toString().trim();
+    final levelL = row[legendariaDifficultyIndex]?.toString();
+    final clearTypeL = row[legendariaClearTypeIndex]?.toString().trim();
     if (levelL == '12' &&
         title != null &&
         clearTypeL != null &&

@@ -39,7 +39,7 @@ const Map<String, String> versionMap = {
 
 // 状态缩写映射
 const Map<String, String> statusAbbr = {
-  'FULLCOMBO': 'FC',
+  'FULLCOMBO CLEAR': 'FC',
   'EX HARD CLEAR': 'EXHC',
   'HARD CLEAR': 'HC',
   'CLEAR': 'NC',
@@ -197,7 +197,7 @@ class _EarthPowerPageState extends State<EarthPowerPage> {
                   songs
                       .where(
                         (song) =>
-                            song.status != 'FULLCOMBO' &&
+                            song.status != 'FULLCOMBO CLEAR' &&
                             song.status != 'EX HARD CLEAR',
                       )
                       .length;
@@ -205,7 +205,7 @@ class _EarthPowerPageState extends State<EarthPowerPage> {
                   songs
                       .where(
                         (song) =>
-                            song.status != 'FULLCOMBO' &&
+                            song.status != 'FULLCOMBO CLEAR' &&
                             song.status != 'EX HARD CLEAR' &&
                             song.status != 'HARD CLEAR',
                       )
@@ -214,7 +214,7 @@ class _EarthPowerPageState extends State<EarthPowerPage> {
                   songs
                       .where(
                         (song) =>
-                            song.status != 'FULLCOMBO' &&
+                            song.status != 'FULLCOMBO CLEAR' &&
                             song.status != 'EX HARD CLEAR' &&
                             song.status != 'HARD CLEAR' &&
                             song.status != 'CLEAR',
@@ -708,7 +708,7 @@ class _SongCardState extends State<SongCard> {
   String status = 'NO PLAY';
 
   static const List<String> statusOptions = [
-    'FULLCOMBO',
+    'FULLCOMBO CLEAR',
     'EX HARD CLEAR',
     'HARD CLEAR',
     'CLEAR',
@@ -742,7 +742,7 @@ class _SongCardState extends State<SongCard> {
 
   Color getStatusColor(String status) {
     switch (status) {
-      case 'FULLCOMBO':
+      case 'FULLCOMBO CLEAR':
         return Colors.amber;
       case 'EX HARD CLEAR':
         return Colors.yellow;
