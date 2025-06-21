@@ -5008,8 +5008,8 @@
     "difficulty": "SPA",
     "level": "12",
     "version": "32",
-    "normal": "",
-    "hard": "",
+    "normal": "地力B",
+    "hard": "地力B+",
     "exhard": ""
   },
   {
@@ -5044,8 +5044,8 @@
     "difficulty": "SPL",
     "level": "12",
     "version": "30",
-    "normal": "難易度未定",
-    "hard": "難易度未定",
+    "normal": "個人差B",
+    "hard": "地力A",
     "exhard": ""
   },
   {
@@ -5107,8 +5107,8 @@
     "difficulty": "SPA",
     "level": "12",
     "version": "32",
-    "normal": "",
-    "hard": "",
+    "normal": "地力C",
+    "hard": "地力C",
     "exhard": ""
   },
   {
@@ -5134,8 +5134,8 @@
     "difficulty": "SPA",
     "level": "12",
     "version": "32",
-    "normal": "",
-    "hard": "",
+    "normal": "個人差C",
+    "hard": "地力B",
     "exhard": ""
   },
   {
@@ -5143,8 +5143,8 @@
     "difficulty": "SPL",
     "level": "12",
     "version": "21",
-    "normal": "難易度未定",
-    "hard": "難易度未定",
+    "normal": "地力A+",
+    "hard": "地力A+",
     "exhard": ""
   },
   {
@@ -5242,8 +5242,8 @@
     "difficulty": "SPA",
     "level": "12",
     "version": "32",
-    "normal": "",
-    "hard": "",
+    "normal": "地力B",
+    "hard": "地力B+",
     "exhard": ""
   },
   {
@@ -5269,8 +5269,8 @@
     "difficulty": "SPA",
     "level": "12",
     "version": "32",
-    "normal": "",
-    "hard": "",
+    "normal": "地力S",
+    "hard": "地力S",
     "exhard": ""
   },
   {
@@ -5278,8 +5278,8 @@
     "difficulty": "SPL",
     "level": "12",
     "version": "28",
-    "normal": "難易度未定",
-    "hard": "難易度未定",
+    "normal": "地力C",
+    "hard": "地力C",
     "exhard": ""
   },
   {
@@ -5305,8 +5305,8 @@
     "difficulty": "SPL",
     "level": "12",
     "version": "19",
-    "normal": "難易度未定",
-    "hard": "難易度未定",
+    "normal": "個人差A+",
+    "hard": "地力S",
     "exhard": ""
   }
 ]
