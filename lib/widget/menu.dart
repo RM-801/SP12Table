@@ -49,7 +49,7 @@ class AppMenuDrawer extends StatelessWidget {
               showAboutDialog(
                 context: context,
                 applicationName: 'SP12地力表',
-                applicationVersion: '1.0.1',
+                applicationVersion: '1.1.0',
                 children: const [
                   Text('这是一个SP12地力表管理工具。'),
                   SizedBox(height: 8),
